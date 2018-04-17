@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P05ArrayManipulator\bin\Debug\P05ArrayManipulator.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P05ArrayManipulator\bin\Debug\P05ArrayManipulator.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P05ArrayManipulator\bin\Debug\P05ArrayManipulator.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P05ArrayManipulator\obj\Debug\P05ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P05ArrayManipulator\obj\Debug\P05ArrayManipulator.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P05ArrayManipulator\obj\Debug\P05ArrayManipulator.pdb

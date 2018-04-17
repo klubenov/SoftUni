@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P06PrimeChecker\bin\Debug\P06PrimeChecker.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P06PrimeChecker\bin\Debug\P06PrimeChecker.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P06PrimeChecker\bin\Debug\P06PrimeChecker.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P06PrimeChecker\obj\Debug\P06PrimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P06PrimeChecker\obj\Debug\P06PrimeChecker.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P06PrimeChecker\obj\Debug\P06PrimeChecker.pdb

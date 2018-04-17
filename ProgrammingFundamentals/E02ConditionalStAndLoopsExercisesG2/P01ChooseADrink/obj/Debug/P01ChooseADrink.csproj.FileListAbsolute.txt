@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P01ChooseADrink\bin\Debug\P01ChooseADrink.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P01ChooseADrink\bin\Debug\P01ChooseADrink.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P01ChooseADrink\bin\Debug\P01ChooseADrink.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P01ChooseADrink\obj\Debug\P01ChooseADrink.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P01ChooseADrink\obj\Debug\P01ChooseADrink.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P01ChooseADrink\obj\Debug\P01ChooseADrink.pdb

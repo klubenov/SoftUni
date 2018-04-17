@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\bin\Debug\netcoreapp2.0\P9RectangleIntersection.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\bin\Debug\netcoreapp2.0\P9RectangleIntersection.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\bin\Debug\netcoreapp2.0\P9RectangleIntersection.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\bin\Debug\netcoreapp2.0\P9RectangleIntersection.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\bin\Debug\netcoreapp2.0\P9RectangleIntersection.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\obj\Debug\netcoreapp2.0\P9RectangleIntersection.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\obj\Debug\netcoreapp2.0\P9RectangleIntersection.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\obj\Debug\netcoreapp2.0\P9RectangleIntersection.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\obj\Debug\netcoreapp2.0\P9RectangleIntersection.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\obj\Debug\netcoreapp2.0\P9RectangleIntersection.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P9RectangleIntersection\obj\Debug\netcoreapp2.0\P9RectangleIntersection.pdb

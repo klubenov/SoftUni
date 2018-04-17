@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\bin\Debug\netcoreapp2.0\P4MaximalSum.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\bin\Debug\netcoreapp2.0\P4MaximalSum.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\bin\Debug\netcoreapp2.0\P4MaximalSum.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\bin\Debug\netcoreapp2.0\P4MaximalSum.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\bin\Debug\netcoreapp2.0\P4MaximalSum.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\obj\Debug\netcoreapp2.0\P4MaximalSum.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\obj\Debug\netcoreapp2.0\P4MaximalSum.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\obj\Debug\netcoreapp2.0\P4MaximalSum.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\obj\Debug\netcoreapp2.0\P4MaximalSum.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\obj\Debug\netcoreapp2.0\P4MaximalSum.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P4MaximalSum\obj\Debug\netcoreapp2.0\P4MaximalSum.pdb

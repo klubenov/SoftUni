@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P03EnglishNameOfTheLastDigit\bin\Debug\P03EnglishNameOfTheLastDigit.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P03EnglishNameOfTheLastDigit\bin\Debug\P03EnglishNameOfTheLastDigit.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P03EnglishNameOfTheLastDigit\bin\Debug\P03EnglishNameOfTheLastDigit.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P03EnglishNameOfTheLastDigit\obj\Debug\P03EnglishNameOfTheLastDigit.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P03EnglishNameOfTheLastDigit\obj\Debug\P03EnglishNameOfTheLastDigit.pdb

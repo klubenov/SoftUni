@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\bin\Debug\netcoreapp2.0\P1to4Person.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\bin\Debug\netcoreapp2.0\P1to4Person.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\bin\Debug\netcoreapp2.0\P1to4Person.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\bin\Debug\netcoreapp2.0\P1to4Person.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\bin\Debug\netcoreapp2.0\P1to4Person.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\obj\Debug\netcoreapp2.0\P1to4Person.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\obj\Debug\netcoreapp2.0\P1to4Person.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\obj\Debug\netcoreapp2.0\P1to4Person.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\obj\Debug\netcoreapp2.0\P1to4Person.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\obj\Debug\netcoreapp2.0\P1to4Person.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P1to4Person\obj\Debug\netcoreapp2.0\P1to4Person.pdb

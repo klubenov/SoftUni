@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P10SerbianUnleashed\bin\Debug\P10SerbianUnleashed.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P10SerbianUnleashed\bin\Debug\P10SerbianUnleashed.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P10SerbianUnleashed\bin\Debug\P10SerbianUnleashed.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P10SerbianUnleashed\obj\Debug\P10SerbianUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P10SerbianUnleashed\obj\Debug\P10SerbianUnleashed.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P10SerbianUnleashed\obj\Debug\P10SerbianUnleashed.pdb

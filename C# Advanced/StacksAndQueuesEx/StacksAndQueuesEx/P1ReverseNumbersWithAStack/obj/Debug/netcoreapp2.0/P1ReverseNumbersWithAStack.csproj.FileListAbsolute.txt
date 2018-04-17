@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\bin\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\bin\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\bin\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\bin\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\bin\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\obj\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\obj\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\obj\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\obj\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\obj\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P1ReverseNumbersWithAStack\obj\Debug\netcoreapp2.0\P1ReverseNumbersWithAStack.pdb

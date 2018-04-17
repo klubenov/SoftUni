@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P05AMinerTask\bin\Debug\P05AMinerTask.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P05AMinerTask\bin\Debug\P05AMinerTask.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P05AMinerTask\bin\Debug\P05AMinerTask.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P05AMinerTask\obj\Debug\P05AMinerTask.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P05AMinerTask\obj\Debug\P05AMinerTask.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P05AMinerTask\obj\Debug\P05AMinerTask.pdb

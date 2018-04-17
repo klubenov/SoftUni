@@ -1,0 +1,5 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P11GeometryCalculator\bin\Debug\P11GeometryCalculator.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P11GeometryCalculator\bin\Debug\P11GeometryCalculator.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P11GeometryCalculator\bin\Debug\P11GeometryCalculator.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P11GeometryCalculator\obj\Debug\P11GeometryCalculator.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P11GeometryCalculator\obj\Debug\P11GeometryCalculator.pdb

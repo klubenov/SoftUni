@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P10. Book Library Modification\bin\Debug\P10.Book_Library_Modification.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P10. Book Library Modification\bin\Debug\P10.Book_Library_Modification.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P10. Book Library Modification\bin\Debug\P10.Book_Library_Modification.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P10. Book Library Modification\obj\Debug\P10.Book_Library_Modification.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P10. Book Library Modification\obj\Debug\P10.Book_Library_Modification.pdb

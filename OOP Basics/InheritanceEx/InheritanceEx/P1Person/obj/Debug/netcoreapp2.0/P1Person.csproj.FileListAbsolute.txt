@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\bin\Debug\netcoreapp2.0\P1Person.deps.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\bin\Debug\netcoreapp2.0\P1Person.runtimeconfig.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\bin\Debug\netcoreapp2.0\P1Person.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\bin\Debug\netcoreapp2.0\P1Person.dll
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\bin\Debug\netcoreapp2.0\P1Person.pdb
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\obj\Debug\netcoreapp2.0\P1Person.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\obj\Debug\netcoreapp2.0\P1Person.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\obj\Debug\netcoreapp2.0\P1Person.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\obj\Debug\netcoreapp2.0\P1Person.AssemblyInfo.cs
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\obj\Debug\netcoreapp2.0\P1Person.dll
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P1Person\obj\Debug\netcoreapp2.0\P1Person.pdb

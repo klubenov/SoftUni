@@ -1,0 +1,11 @@
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\bin\Debug\netcoreapp2.0\P1EventImplementation.deps.json
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\bin\Debug\netcoreapp2.0\P1EventImplementation.runtimeconfig.json
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\bin\Debug\netcoreapp2.0\P1EventImplementation.runtimeconfig.dev.json
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\bin\Debug\netcoreapp2.0\P1EventImplementation.dll
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\bin\Debug\netcoreapp2.0\P1EventImplementation.pdb
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\obj\Debug\netcoreapp2.0\P1EventImplementation.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\obj\Debug\netcoreapp2.0\P1EventImplementation.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\obj\Debug\netcoreapp2.0\P1EventImplementation.AssemblyInfoInputs.cache
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\obj\Debug\netcoreapp2.0\P1EventImplementation.AssemblyInfo.cs
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\obj\Debug\netcoreapp2.0\P1EventImplementation.dll
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P1EventImplementation\obj\Debug\netcoreapp2.0\P1EventImplementation.pdb

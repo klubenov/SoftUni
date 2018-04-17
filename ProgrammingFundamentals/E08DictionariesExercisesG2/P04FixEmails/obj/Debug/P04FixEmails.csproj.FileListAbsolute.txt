@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P04FixEmails\bin\Debug\P04FixEmails.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P04FixEmails\bin\Debug\P04FixEmails.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P04FixEmails\bin\Debug\P04FixEmails.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P04FixEmails\obj\Debug\P04FixEmails.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P04FixEmails\obj\Debug\P04FixEmails.pdb

@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P07AdvertisementMessage\bin\Debug\P07AdvertisementMessage.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P07AdvertisementMessage\bin\Debug\P07AdvertisementMessage.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P07AdvertisementMessage\bin\Debug\P07AdvertisementMessage.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P07AdvertisementMessage\obj\Debug\P07AdvertisementMessage.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P07AdvertisementMessage\obj\Debug\P07AdvertisementMessage.pdb

@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P02PhonebookUpgrade\bin\Debug\P02PhonebookUpgrade.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P02PhonebookUpgrade\bin\Debug\P02PhonebookUpgrade.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P02PhonebookUpgrade\bin\Debug\P02PhonebookUpgrade.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P02PhonebookUpgrade\obj\Debug\P02PhonebookUpgrade.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P02PhonebookUpgrade\obj\Debug\P02PhonebookUpgrade.pdb

@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P06MaxSequenceOfEqualElements\bin\Debug\P06MaxSequenceOfEqualElements.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P06MaxSequenceOfEqualElements\bin\Debug\P06MaxSequenceOfEqualElements.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P06MaxSequenceOfEqualElements\bin\Debug\P06MaxSequenceOfEqualElements.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P06MaxSequenceOfEqualElements\obj\Debug\P06MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P06MaxSequenceOfEqualElements\obj\Debug\P06MaxSequenceOfEqualElements.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P06MaxSequenceOfEqualElements\obj\Debug\P06MaxSequenceOfEqualElements.pdb

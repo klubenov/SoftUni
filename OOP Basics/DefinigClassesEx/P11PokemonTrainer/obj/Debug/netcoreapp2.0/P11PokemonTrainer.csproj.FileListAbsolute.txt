@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\bin\Debug\netcoreapp2.0\P11PokemonTrainer.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\bin\Debug\netcoreapp2.0\P11PokemonTrainer.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\bin\Debug\netcoreapp2.0\P11PokemonTrainer.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\bin\Debug\netcoreapp2.0\P11PokemonTrainer.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\bin\Debug\netcoreapp2.0\P11PokemonTrainer.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\obj\Debug\netcoreapp2.0\P11PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\obj\Debug\netcoreapp2.0\P11PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\obj\Debug\netcoreapp2.0\P11PokemonTrainer.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\obj\Debug\netcoreapp2.0\P11PokemonTrainer.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\obj\Debug\netcoreapp2.0\P11PokemonTrainer.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P11PokemonTrainer\obj\Debug\netcoreapp2.0\P11PokemonTrainer.pdb

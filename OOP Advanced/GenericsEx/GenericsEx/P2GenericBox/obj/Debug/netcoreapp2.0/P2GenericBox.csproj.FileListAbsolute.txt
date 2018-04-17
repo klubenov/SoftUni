@@ -1,0 +1,11 @@
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\bin\Debug\netcoreapp2.0\P2GenericBox.deps.json
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\bin\Debug\netcoreapp2.0\P2GenericBox.runtimeconfig.json
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\bin\Debug\netcoreapp2.0\P2GenericBox.runtimeconfig.dev.json
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\bin\Debug\netcoreapp2.0\P2GenericBox.dll
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\bin\Debug\netcoreapp2.0\P2GenericBox.pdb
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\obj\Debug\netcoreapp2.0\P2GenericBox.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\obj\Debug\netcoreapp2.0\P2GenericBox.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\obj\Debug\netcoreapp2.0\P2GenericBox.AssemblyInfoInputs.cache
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\obj\Debug\netcoreapp2.0\P2GenericBox.AssemblyInfo.cs
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\obj\Debug\netcoreapp2.0\P2GenericBox.dll
+C:\Projects\OOP Advanced\GenericsEx\GenericsEx\P2GenericBox\obj\Debug\netcoreapp2.0\P2GenericBox.pdb

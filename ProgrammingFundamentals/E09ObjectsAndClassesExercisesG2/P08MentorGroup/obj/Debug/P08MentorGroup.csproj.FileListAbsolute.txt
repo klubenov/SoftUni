@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P08MentorGroup\bin\Debug\P08MentorGroup.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P08MentorGroup\bin\Debug\P08MentorGroup.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P08MentorGroup\bin\Debug\P08MentorGroup.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P08MentorGroup\obj\Debug\P08MentorGroup.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P08MentorGroup\obj\Debug\P08MentorGroup.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P08MentorGroup\obj\Debug\P08MentorGroup.pdb

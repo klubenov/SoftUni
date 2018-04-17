@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\bin\Debug\netcoreapp2.0\P1MatrixOfPalindromes.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\bin\Debug\netcoreapp2.0\P1MatrixOfPalindromes.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\bin\Debug\netcoreapp2.0\P1MatrixOfPalindromes.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\bin\Debug\netcoreapp2.0\P1MatrixOfPalindromes.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\bin\Debug\netcoreapp2.0\P1MatrixOfPalindromes.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\obj\Debug\netcoreapp2.0\P1MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\obj\Debug\netcoreapp2.0\P1MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\obj\Debug\netcoreapp2.0\P1MatrixOfPalindromes.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\obj\Debug\netcoreapp2.0\P1MatrixOfPalindromes.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\obj\Debug\netcoreapp2.0\P1MatrixOfPalindromes.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P1MatrixOfPalindromes\obj\Debug\netcoreapp2.0\P1MatrixOfPalindromes.pdb

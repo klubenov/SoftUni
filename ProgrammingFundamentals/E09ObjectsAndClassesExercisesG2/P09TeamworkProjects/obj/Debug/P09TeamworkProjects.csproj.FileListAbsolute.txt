@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P09TeamworkProjects\bin\Debug\P09TeamworkProjects.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P09TeamworkProjects\bin\Debug\P09TeamworkProjects.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P09TeamworkProjects\bin\Debug\P09TeamworkProjects.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P09TeamworkProjects\obj\Debug\P09TeamworkProjects.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P09TeamworkProjects\obj\Debug\P09TeamworkProjects.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P09TeamworkProjects\obj\Debug\P09TeamworkProjects.pdb

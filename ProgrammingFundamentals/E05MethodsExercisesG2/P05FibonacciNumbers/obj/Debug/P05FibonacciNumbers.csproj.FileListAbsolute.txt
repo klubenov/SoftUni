@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P05FibonacciNumbers\bin\Debug\P05FibonacciNumbers.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P05FibonacciNumbers\bin\Debug\P05FibonacciNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P05FibonacciNumbers\bin\Debug\P05FibonacciNumbers.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P05FibonacciNumbers\obj\Debug\P05FibonacciNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P05FibonacciNumbers\obj\Debug\P05FibonacciNumbers.pdb

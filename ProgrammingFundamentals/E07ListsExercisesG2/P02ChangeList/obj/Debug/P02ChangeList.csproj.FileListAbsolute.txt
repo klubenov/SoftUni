@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P02ChangeList\bin\Debug\P02ChangeList.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P02ChangeList\bin\Debug\P02ChangeList.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P02ChangeList\bin\Debug\P02ChangeList.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P02ChangeList\obj\Debug\P02ChangeList.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P02ChangeList\obj\Debug\P02ChangeList.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P02ChangeList\obj\Debug\P02ChangeList.pdb

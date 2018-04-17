@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P11FiveDifferentNumbers\bin\Debug\P11FiveDifferentNumbers.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P11FiveDifferentNumbers\bin\Debug\P11FiveDifferentNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P11FiveDifferentNumbers\bin\Debug\P11FiveDifferentNumbers.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P11FiveDifferentNumbers\obj\Debug\P11FiveDifferentNumbers.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P11FiveDifferentNumbers\obj\Debug\P11FiveDifferentNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P11FiveDifferentNumbers\obj\Debug\P11FiveDifferentNumbers.pdb

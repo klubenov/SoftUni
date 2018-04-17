@@ -1,0 +1,10 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\bin\Debug\netcoreapp2.0\P5DateModifier.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\bin\Debug\netcoreapp2.0\P5DateModifier.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\bin\Debug\netcoreapp2.0\P5DateModifier.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\bin\Debug\netcoreapp2.0\P5DateModifier.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\bin\Debug\netcoreapp2.0\P5DateModifier.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\obj\Debug\netcoreapp2.0\P5DateModifier.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\obj\Debug\netcoreapp2.0\P5DateModifier.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\obj\Debug\netcoreapp2.0\P5DateModifier.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\obj\Debug\netcoreapp2.0\P5DateModifier.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P5DateModifier\obj\Debug\netcoreapp2.0\P5DateModifier.pdb

@@ -1,0 +1,11 @@
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\bin\Debug\netcoreapp2.0\P1ListyIterator.deps.json
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\bin\Debug\netcoreapp2.0\P1ListyIterator.runtimeconfig.json
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\bin\Debug\netcoreapp2.0\P1ListyIterator.runtimeconfig.dev.json
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\bin\Debug\netcoreapp2.0\P1ListyIterator.dll
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\bin\Debug\netcoreapp2.0\P1ListyIterator.pdb
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\obj\Debug\netcoreapp2.0\P1ListyIterator.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\obj\Debug\netcoreapp2.0\P1ListyIterator.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\obj\Debug\netcoreapp2.0\P1ListyIterator.AssemblyInfoInputs.cache
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\obj\Debug\netcoreapp2.0\P1ListyIterator.AssemblyInfo.cs
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\obj\Debug\netcoreapp2.0\P1ListyIterator.dll
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\P1ListyIterator\obj\Debug\netcoreapp2.0\P1ListyIterator.pdb

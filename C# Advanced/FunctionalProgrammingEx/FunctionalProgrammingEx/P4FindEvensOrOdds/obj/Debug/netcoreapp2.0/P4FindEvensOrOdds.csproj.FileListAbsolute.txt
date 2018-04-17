@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\bin\Debug\netcoreapp2.0\P4FindEvensOrOdds.deps.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\bin\Debug\netcoreapp2.0\P4FindEvensOrOdds.runtimeconfig.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\bin\Debug\netcoreapp2.0\P4FindEvensOrOdds.runtimeconfig.dev.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\bin\Debug\netcoreapp2.0\P4FindEvensOrOdds.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\bin\Debug\netcoreapp2.0\P4FindEvensOrOdds.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\obj\Debug\netcoreapp2.0\P4FindEvensOrOdds.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\obj\Debug\netcoreapp2.0\P4FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\obj\Debug\netcoreapp2.0\P4FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\obj\Debug\netcoreapp2.0\P4FindEvensOrOdds.AssemblyInfo.cs
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\obj\Debug\netcoreapp2.0\P4FindEvensOrOdds.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P4FindEvensOrOdds\obj\Debug\netcoreapp2.0\P4FindEvensOrOdds.pdb

@@ -1,0 +1,5 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P10PairsByDifference\bin\Debug\P10PairsByDifference.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P10PairsByDifference\bin\Debug\P10PairsByDifference.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P10PairsByDifference\bin\Debug\P10PairsByDifference.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P10PairsByDifference\obj\Debug\P10PairsByDifference.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P10PairsByDifference\obj\Debug\P10PairsByDifference.pdb

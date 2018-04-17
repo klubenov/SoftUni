@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\bin\Debug\netcoreapp2.0\P3Ferrari.deps.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\bin\Debug\netcoreapp2.0\P3Ferrari.runtimeconfig.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\bin\Debug\netcoreapp2.0\P3Ferrari.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\bin\Debug\netcoreapp2.0\P3Ferrari.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\bin\Debug\netcoreapp2.0\P3Ferrari.pdb
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\obj\Debug\netcoreapp2.0\P3Ferrari.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\obj\Debug\netcoreapp2.0\P3Ferrari.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\obj\Debug\netcoreapp2.0\P3Ferrari.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\obj\Debug\netcoreapp2.0\P3Ferrari.AssemblyInfo.cs
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\obj\Debug\netcoreapp2.0\P3Ferrari.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P3Ferrari\obj\Debug\netcoreapp2.0\P3Ferrari.pdb

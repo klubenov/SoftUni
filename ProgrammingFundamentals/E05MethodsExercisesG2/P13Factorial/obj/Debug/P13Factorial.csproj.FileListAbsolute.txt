@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P13Factorial\bin\Debug\P13Factorial.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P13Factorial\bin\Debug\P13Factorial.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P13Factorial\bin\Debug\P13Factorial.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P13Factorial\obj\Debug\P13Factorial.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P13Factorial\obj\Debug\P13Factorial.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P13Factorial\obj\Debug\P13Factorial.csprojResolveAssemblyReference.cache

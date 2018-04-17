@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P10CubeProperties\bin\Debug\P10CubeProperties.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P10CubeProperties\bin\Debug\P10CubeProperties.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P10CubeProperties\bin\Debug\P10CubeProperties.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P10CubeProperties\obj\Debug\P10CubeProperties.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P10CubeProperties\obj\Debug\P10CubeProperties.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P10CubeProperties\obj\Debug\P10CubeProperties.pdb

@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\bin\Debug\netcoreapp2.0\P3WildFarm.deps.json
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\bin\Debug\netcoreapp2.0\P3WildFarm.runtimeconfig.json
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\bin\Debug\netcoreapp2.0\P3WildFarm.runtimeconfig.dev.json
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\bin\Debug\netcoreapp2.0\P3WildFarm.dll
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\bin\Debug\netcoreapp2.0\P3WildFarm.pdb
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\obj\Debug\netcoreapp2.0\P3WildFarm.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\obj\Debug\netcoreapp2.0\P3WildFarm.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\obj\Debug\netcoreapp2.0\P3WildFarm.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\obj\Debug\netcoreapp2.0\P3WildFarm.AssemblyInfo.cs
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\obj\Debug\netcoreapp2.0\P3WildFarm.dll
+C:\Projects\OOP Basics\PolymorphismEx\PolymorphismEx\P3WildFarm\obj\Debug\netcoreapp2.0\P3WildFarm.pdb

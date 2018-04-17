@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P08MostFrequentNumber\bin\Debug\P08MostFrequentNumber.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P08MostFrequentNumber\bin\Debug\P08MostFrequentNumber.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P08MostFrequentNumber\bin\Debug\P08MostFrequentNumber.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P08MostFrequentNumber\obj\Debug\P08MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P08MostFrequentNumber\obj\Debug\P08MostFrequentNumber.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P08MostFrequentNumber\obj\Debug\P08MostFrequentNumber.pdb

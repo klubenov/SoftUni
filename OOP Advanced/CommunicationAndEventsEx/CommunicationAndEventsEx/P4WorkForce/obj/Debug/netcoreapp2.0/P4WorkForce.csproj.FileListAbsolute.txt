@@ -1,0 +1,11 @@
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\bin\Debug\netcoreapp2.0\P4WorkForce.deps.json
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\bin\Debug\netcoreapp2.0\P4WorkForce.runtimeconfig.json
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\bin\Debug\netcoreapp2.0\P4WorkForce.runtimeconfig.dev.json
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\bin\Debug\netcoreapp2.0\P4WorkForce.dll
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\bin\Debug\netcoreapp2.0\P4WorkForce.pdb
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\obj\Debug\netcoreapp2.0\P4WorkForce.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\obj\Debug\netcoreapp2.0\P4WorkForce.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\obj\Debug\netcoreapp2.0\P4WorkForce.AssemblyInfoInputs.cache
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\obj\Debug\netcoreapp2.0\P4WorkForce.AssemblyInfo.cs
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\obj\Debug\netcoreapp2.0\P4WorkForce.dll
+C:\Projects\OOP Advanced\CommunicationAndEventsEx\CommunicationAndEventsEx\P4WorkForce\obj\Debug\netcoreapp2.0\P4WorkForce.pdb

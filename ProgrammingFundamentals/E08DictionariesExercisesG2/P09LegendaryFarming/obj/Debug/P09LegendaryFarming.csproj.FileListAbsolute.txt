@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P09LegendaryFarming\bin\Debug\P09LegendaryFarming.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P09LegendaryFarming\bin\Debug\P09LegendaryFarming.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P09LegendaryFarming\bin\Debug\P09LegendaryFarming.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P09LegendaryFarming\obj\Debug\P09LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P09LegendaryFarming\obj\Debug\P09LegendaryFarming.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P09LegendaryFarming\obj\Debug\P09LegendaryFarming.pdb

@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P4OnlineRadioDatabase.deps.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P4OnlineRadioDatabase.runtimeconfig.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P4OnlineRadioDatabase.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P4OnlineRadioDatabase.dll
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P4OnlineRadioDatabase.pdb
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P4OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P4OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P4OnlineRadioDatabase.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P4OnlineRadioDatabase.AssemblyInfo.cs
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P4OnlineRadioDatabase.dll
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P4OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P4OnlineRadioDatabase.pdb

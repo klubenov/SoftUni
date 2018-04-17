@@ -1,0 +1,10 @@
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb

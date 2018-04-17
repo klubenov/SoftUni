@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P02RotateAndSum\bin\Debug\P02RotateAndSum.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P02RotateAndSum\bin\Debug\P02RotateAndSum.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P02RotateAndSum\bin\Debug\P02RotateAndSum.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P02RotateAndSum\obj\Debug\P02RotateAndSum.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P02RotateAndSum\obj\Debug\P02RotateAndSum.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P02RotateAndSum\obj\Debug\P02RotateAndSum.csprojResolveAssemblyReference.cache

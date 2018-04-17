@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\bin\Debug\netcoreapp2.0\P5RubiksMatrix.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\bin\Debug\netcoreapp2.0\P5RubiksMatrix.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\bin\Debug\netcoreapp2.0\P5RubiksMatrix.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\bin\Debug\netcoreapp2.0\P5RubiksMatrix.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\bin\Debug\netcoreapp2.0\P5RubiksMatrix.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\obj\Debug\netcoreapp2.0\P5RubiksMatrix.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\obj\Debug\netcoreapp2.0\P5RubiksMatrix.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\obj\Debug\netcoreapp2.0\P5RubiksMatrix.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\obj\Debug\netcoreapp2.0\P5RubiksMatrix.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\obj\Debug\netcoreapp2.0\P5RubiksMatrix.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P5RubiksMatrix\obj\Debug\netcoreapp2.0\P5RubiksMatrix.pdb

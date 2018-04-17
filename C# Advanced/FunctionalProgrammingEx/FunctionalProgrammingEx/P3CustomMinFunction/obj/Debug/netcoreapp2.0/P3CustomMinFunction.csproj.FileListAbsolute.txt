@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\bin\Debug\netcoreapp2.0\P3CustomMinFunction.deps.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\bin\Debug\netcoreapp2.0\P3CustomMinFunction.runtimeconfig.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\bin\Debug\netcoreapp2.0\P3CustomMinFunction.runtimeconfig.dev.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\bin\Debug\netcoreapp2.0\P3CustomMinFunction.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\bin\Debug\netcoreapp2.0\P3CustomMinFunction.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\obj\Debug\netcoreapp2.0\P3CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\obj\Debug\netcoreapp2.0\P3CustomMinFunction.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\obj\Debug\netcoreapp2.0\P3CustomMinFunction.AssemblyInfo.cs
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\obj\Debug\netcoreapp2.0\P3CustomMinFunction.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\obj\Debug\netcoreapp2.0\P3CustomMinFunction.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P3CustomMinFunction\obj\Debug\netcoreapp2.0\P3CustomMinFunction.csprojResolveAssemblyReference.cache

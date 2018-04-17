@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\bin\Debug\netcoreapp2.0\P12Google.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\bin\Debug\netcoreapp2.0\P12Google.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\bin\Debug\netcoreapp2.0\P12Google.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\bin\Debug\netcoreapp2.0\P12Google.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\bin\Debug\netcoreapp2.0\P12Google.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\obj\Debug\netcoreapp2.0\P12Google.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\obj\Debug\netcoreapp2.0\P12Google.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\obj\Debug\netcoreapp2.0\P12Google.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\obj\Debug\netcoreapp2.0\P12Google.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\obj\Debug\netcoreapp2.0\P12Google.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P12Google\obj\Debug\netcoreapp2.0\P12Google.pdb

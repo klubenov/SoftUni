@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\bin\Debug\netcoreapp2.0\P3Mankind.deps.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\bin\Debug\netcoreapp2.0\P3Mankind.runtimeconfig.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\bin\Debug\netcoreapp2.0\P3Mankind.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\bin\Debug\netcoreapp2.0\P3Mankind.dll
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\bin\Debug\netcoreapp2.0\P3Mankind.pdb
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\obj\Debug\netcoreapp2.0\P3Mankind.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\obj\Debug\netcoreapp2.0\P3Mankind.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\obj\Debug\netcoreapp2.0\P3Mankind.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\obj\Debug\netcoreapp2.0\P3Mankind.AssemblyInfo.cs
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\obj\Debug\netcoreapp2.0\P3Mankind.dll
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P3Mankind\obj\Debug\netcoreapp2.0\P3Mankind.pdb

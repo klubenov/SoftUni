@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\CharacterStats\bin\Debug\CharacterStats.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\CharacterStats\bin\Debug\CharacterStats.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\CharacterStats\bin\Debug\CharacterStats.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\CharacterStats\obj\Debug\CharacterStats.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\CharacterStats\obj\Debug\CharacterStats.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\CharacterStats\obj\Debug\CharacterStats.pdb

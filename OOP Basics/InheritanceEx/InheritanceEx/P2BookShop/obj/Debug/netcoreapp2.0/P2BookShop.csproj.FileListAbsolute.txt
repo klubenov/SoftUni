@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\bin\Debug\netcoreapp2.0\P2BookShop.deps.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\bin\Debug\netcoreapp2.0\P2BookShop.runtimeconfig.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\bin\Debug\netcoreapp2.0\P2BookShop.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\bin\Debug\netcoreapp2.0\P2BookShop.dll
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\bin\Debug\netcoreapp2.0\P2BookShop.pdb
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\obj\Debug\netcoreapp2.0\P2BookShop.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\obj\Debug\netcoreapp2.0\P2BookShop.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\obj\Debug\netcoreapp2.0\P2BookShop.AssemblyInfo.cs
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\obj\Debug\netcoreapp2.0\P2BookShop.dll
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\obj\Debug\netcoreapp2.0\P2BookShop.pdb
+C:\Projects\OOP Basics\InheritanceEx\InheritanceEx\P2BookShop\obj\Debug\netcoreapp2.0\P2BookShop.csprojResolveAssemblyReference.cache

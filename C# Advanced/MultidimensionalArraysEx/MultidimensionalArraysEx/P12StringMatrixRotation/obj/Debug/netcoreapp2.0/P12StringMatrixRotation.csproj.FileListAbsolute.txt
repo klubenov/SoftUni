@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\bin\Debug\netcoreapp2.0\P12StringMatrixRotation.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\bin\Debug\netcoreapp2.0\P12StringMatrixRotation.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\bin\Debug\netcoreapp2.0\P12StringMatrixRotation.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\bin\Debug\netcoreapp2.0\P12StringMatrixRotation.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\bin\Debug\netcoreapp2.0\P12StringMatrixRotation.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\obj\Debug\netcoreapp2.0\P12StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\obj\Debug\netcoreapp2.0\P12StringMatrixRotation.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\obj\Debug\netcoreapp2.0\P12StringMatrixRotation.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\obj\Debug\netcoreapp2.0\P12StringMatrixRotation.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\obj\Debug\netcoreapp2.0\P12StringMatrixRotation.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P12StringMatrixRotation\obj\Debug\netcoreapp2.0\P12StringMatrixRotation.pdb

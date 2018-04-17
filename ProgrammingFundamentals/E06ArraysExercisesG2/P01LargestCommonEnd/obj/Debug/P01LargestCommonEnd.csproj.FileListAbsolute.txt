@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E06ArraysExercisesG2\P01LargestCommonEnd\obj\Debug\P01LargestCommonEnd.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E06ArraysExercisesG2\P01LargestCommonEnd\bin\Debug\P01LargestCommonEnd.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E06ArraysExercisesG2\P01LargestCommonEnd\bin\Debug\P01LargestCommonEnd.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E06ArraysExercisesG2\P01LargestCommonEnd\bin\Debug\P01LargestCommonEnd.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E06ArraysExercisesG2\P01LargestCommonEnd\obj\Debug\P01LargestCommonEnd.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E06ArraysExercisesG2\P01LargestCommonEnd\obj\Debug\P01LargestCommonEnd.pdb

@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\bin\Debug\netcoreapp2.0\P6ReverseAndExclude.deps.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\bin\Debug\netcoreapp2.0\P6ReverseAndExclude.runtimeconfig.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\bin\Debug\netcoreapp2.0\P6ReverseAndExclude.runtimeconfig.dev.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\bin\Debug\netcoreapp2.0\P6ReverseAndExclude.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\bin\Debug\netcoreapp2.0\P6ReverseAndExclude.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\obj\Debug\netcoreapp2.0\P6ReverseAndExclude.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\obj\Debug\netcoreapp2.0\P6ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\obj\Debug\netcoreapp2.0\P6ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\obj\Debug\netcoreapp2.0\P6ReverseAndExclude.AssemblyInfo.cs
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\obj\Debug\netcoreapp2.0\P6ReverseAndExclude.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P6ReverseAndExclude\obj\Debug\netcoreapp2.0\P6ReverseAndExclude.pdb

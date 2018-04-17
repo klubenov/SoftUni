@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\bin\Debug\netcoreapp2.0\P8MilitaryElite.deps.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\bin\Debug\netcoreapp2.0\P8MilitaryElite.runtimeconfig.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\bin\Debug\netcoreapp2.0\P8MilitaryElite.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\bin\Debug\netcoreapp2.0\P8MilitaryElite.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\bin\Debug\netcoreapp2.0\P8MilitaryElite.pdb
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\obj\Debug\netcoreapp2.0\P8MilitaryElite.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\obj\Debug\netcoreapp2.0\P8MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\obj\Debug\netcoreapp2.0\P8MilitaryElite.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\obj\Debug\netcoreapp2.0\P8MilitaryElite.AssemblyInfo.cs
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\obj\Debug\netcoreapp2.0\P8MilitaryElite.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P8MilitaryElite\obj\Debug\netcoreapp2.0\P8MilitaryElite.pdb

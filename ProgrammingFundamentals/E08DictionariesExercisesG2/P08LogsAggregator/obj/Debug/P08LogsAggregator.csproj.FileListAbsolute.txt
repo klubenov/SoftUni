@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P08LogsAggregator\bin\Debug\P08LogsAggregator.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P08LogsAggregator\bin\Debug\P08LogsAggregator.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P08LogsAggregator\bin\Debug\P08LogsAggregator.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P08LogsAggregator\obj\Debug\P08LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P08LogsAggregator\obj\Debug\P08LogsAggregator.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P08LogsAggregator\obj\Debug\P08LogsAggregator.pdb

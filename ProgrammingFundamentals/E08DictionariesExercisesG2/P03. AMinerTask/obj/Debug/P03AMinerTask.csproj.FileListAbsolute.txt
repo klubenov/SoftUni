@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P03. AMinerTask\bin\Debug\P03.AMinerTask.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P03. AMinerTask\bin\Debug\P03.AMinerTask.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P03. AMinerTask\bin\Debug\P03.AMinerTask.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P03. AMinerTask\obj\Debug\P03AMinerTask.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P03. AMinerTask\obj\Debug\P03.AMinerTask.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P03. AMinerTask\obj\Debug\P03.AMinerTask.pdb

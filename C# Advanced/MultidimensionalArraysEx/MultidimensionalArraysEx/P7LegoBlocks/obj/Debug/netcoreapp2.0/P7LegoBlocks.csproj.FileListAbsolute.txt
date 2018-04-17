@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\bin\Debug\netcoreapp2.0\P7LegoBlocks.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\bin\Debug\netcoreapp2.0\P7LegoBlocks.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\bin\Debug\netcoreapp2.0\P7LegoBlocks.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\bin\Debug\netcoreapp2.0\P7LegoBlocks.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\bin\Debug\netcoreapp2.0\P7LegoBlocks.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\obj\Debug\netcoreapp2.0\P7LegoBlocks.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\obj\Debug\netcoreapp2.0\P7LegoBlocks.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\obj\Debug\netcoreapp2.0\P7LegoBlocks.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\obj\Debug\netcoreapp2.0\P7LegoBlocks.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\obj\Debug\netcoreapp2.0\P7LegoBlocks.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P7LegoBlocks\obj\Debug\netcoreapp2.0\P7LegoBlocks.pdb

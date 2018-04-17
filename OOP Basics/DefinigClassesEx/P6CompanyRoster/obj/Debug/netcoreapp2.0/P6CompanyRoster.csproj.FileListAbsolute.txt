@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\bin\Debug\netcoreapp2.0\P6CompanyRoster.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\bin\Debug\netcoreapp2.0\P6CompanyRoster.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\bin\Debug\netcoreapp2.0\P6CompanyRoster.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\bin\Debug\netcoreapp2.0\P6CompanyRoster.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\bin\Debug\netcoreapp2.0\P6CompanyRoster.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\obj\Debug\netcoreapp2.0\P6CompanyRoster.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\obj\Debug\netcoreapp2.0\P6CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\obj\Debug\netcoreapp2.0\P6CompanyRoster.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\obj\Debug\netcoreapp2.0\P6CompanyRoster.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\obj\Debug\netcoreapp2.0\P6CompanyRoster.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P6CompanyRoster\obj\Debug\netcoreapp2.0\P6CompanyRoster.pdb

@@ -1,0 +1,5 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P06BookLibraryModification\bin\Debug\P06BookLibraryModification.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P06BookLibraryModification\bin\Debug\P06BookLibraryModification.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P06BookLibraryModification\bin\Debug\P06BookLibraryModification.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P06BookLibraryModification\obj\Debug\P06BookLibraryModification.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P06BookLibraryModification\obj\Debug\P06BookLibraryModification.pdb

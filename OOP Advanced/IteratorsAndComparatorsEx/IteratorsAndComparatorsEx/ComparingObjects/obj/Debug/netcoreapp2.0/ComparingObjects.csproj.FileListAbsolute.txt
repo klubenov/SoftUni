@@ -1,0 +1,11 @@
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.deps.json
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.runtimeconfig.json
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.runtimeconfig.dev.json
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.dll
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\bin\Debug\netcoreapp2.0\ComparingObjects.pdb
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.AssemblyInfoInputs.cache
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.AssemblyInfo.cs
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.dll
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.pdb
+C:\Projects\OOP Advanced\IteratorsAndComparatorsEx\IteratorsAndComparatorsEx\ComparingObjects\obj\Debug\netcoreapp2.0\ComparingObjects.csprojResolveAssemblyReference.cache

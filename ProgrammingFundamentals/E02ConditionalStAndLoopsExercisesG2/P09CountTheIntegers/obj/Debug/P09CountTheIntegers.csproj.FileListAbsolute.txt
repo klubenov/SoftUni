@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P09CountTheIntegers\bin\Debug\P09CountTheIntegers.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P09CountTheIntegers\bin\Debug\P09CountTheIntegers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P09CountTheIntegers\bin\Debug\P09CountTheIntegers.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P09CountTheIntegers\obj\Debug\P09CountTheIntegers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P09CountTheIntegers\obj\Debug\P09CountTheIntegers.pdb

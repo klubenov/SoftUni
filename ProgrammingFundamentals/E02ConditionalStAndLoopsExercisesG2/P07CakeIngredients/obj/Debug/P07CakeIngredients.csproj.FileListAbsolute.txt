@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P07CakeIngredients\bin\Debug\P07CakeIngredients.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P07CakeIngredients\bin\Debug\P07CakeIngredients.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P07CakeIngredients\bin\Debug\P07CakeIngredients.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P07CakeIngredients\obj\Debug\P07CakeIngredients.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P07CakeIngredients\obj\Debug\P07CakeIngredients.pdb

@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\bin\Debug\netcoreapp2.0\P2Knights.deps.json
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\bin\Debug\netcoreapp2.0\P2Knights.runtimeconfig.json
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\bin\Debug\netcoreapp2.0\P2Knights.runtimeconfig.dev.json
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\bin\Debug\netcoreapp2.0\P2Knights.dll
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\bin\Debug\netcoreapp2.0\P2Knights.pdb
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\obj\Debug\netcoreapp2.0\P2Knights.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\obj\Debug\netcoreapp2.0\P2Knights.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\obj\Debug\netcoreapp2.0\P2Knights.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\obj\Debug\netcoreapp2.0\P2Knights.AssemblyInfo.cs
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\obj\Debug\netcoreapp2.0\P2Knights.dll
+C:\Projects\C# Advanced\ExamPrep1\P2Knights\obj\Debug\netcoreapp2.0\P2Knights.pdb

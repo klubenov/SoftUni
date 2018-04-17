@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\bin\Debug\netcoreapp2.0\P7PredicateForNames.deps.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\bin\Debug\netcoreapp2.0\P7PredicateForNames.runtimeconfig.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\bin\Debug\netcoreapp2.0\P7PredicateForNames.runtimeconfig.dev.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\bin\Debug\netcoreapp2.0\P7PredicateForNames.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\bin\Debug\netcoreapp2.0\P7PredicateForNames.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\obj\Debug\netcoreapp2.0\P7PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\obj\Debug\netcoreapp2.0\P7PredicateForNames.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\obj\Debug\netcoreapp2.0\P7PredicateForNames.AssemblyInfo.cs
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\obj\Debug\netcoreapp2.0\P7PredicateForNames.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\obj\Debug\netcoreapp2.0\P7PredicateForNames.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P7PredicateForNames\obj\Debug\netcoreapp2.0\P7PredicateForNames.csprojResolveAssemblyReference.cache

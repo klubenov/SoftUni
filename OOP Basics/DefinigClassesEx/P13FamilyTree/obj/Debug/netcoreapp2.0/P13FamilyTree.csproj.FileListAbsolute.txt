@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\bin\Debug\netcoreapp2.0\P13FamilyTree.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\bin\Debug\netcoreapp2.0\P13FamilyTree.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\bin\Debug\netcoreapp2.0\P13FamilyTree.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\bin\Debug\netcoreapp2.0\P13FamilyTree.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\bin\Debug\netcoreapp2.0\P13FamilyTree.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\obj\Debug\netcoreapp2.0\P13FamilyTree.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\obj\Debug\netcoreapp2.0\P13FamilyTree.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\obj\Debug\netcoreapp2.0\P13FamilyTree.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\obj\Debug\netcoreapp2.0\P13FamilyTree.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\obj\Debug\netcoreapp2.0\P13FamilyTree.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P13FamilyTree\obj\Debug\netcoreapp2.0\P13FamilyTree.pdb

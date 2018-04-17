@@ -1,0 +1,15 @@
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.dll
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Projects\OOP Basics\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+C:\Projects\OOP Basics\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.dll
+C:\Projects\OOP Basics\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Projects\OOP Basics\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.pdb

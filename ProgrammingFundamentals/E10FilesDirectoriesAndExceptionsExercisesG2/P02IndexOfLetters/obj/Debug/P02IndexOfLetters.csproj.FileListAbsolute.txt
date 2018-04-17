@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P02IndexOfLetters\bin\Debug\P02IndexOfLetters.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P02IndexOfLetters\bin\Debug\P02IndexOfLetters.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P02IndexOfLetters\bin\Debug\P02IndexOfLetters.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P02IndexOfLetters\obj\Debug\P02IndexOfLetters.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P02IndexOfLetters\obj\Debug\P02IndexOfLetters.pdb

@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\bin\Debug\netcoreapp2.0\P1ClassBox.deps.json
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\bin\Debug\netcoreapp2.0\P1ClassBox.runtimeconfig.json
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\bin\Debug\netcoreapp2.0\P1ClassBox.runtimeconfig.dev.json
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\bin\Debug\netcoreapp2.0\P1ClassBox.dll
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\bin\Debug\netcoreapp2.0\P1ClassBox.pdb
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\obj\Debug\netcoreapp2.0\P1ClassBox.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\obj\Debug\netcoreapp2.0\P1ClassBox.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\obj\Debug\netcoreapp2.0\P1ClassBox.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\obj\Debug\netcoreapp2.0\P1ClassBox.AssemblyInfo.cs
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\obj\Debug\netcoreapp2.0\P1ClassBox.dll
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P1ClassBox\obj\Debug\netcoreapp2.0\P1ClassBox.pdb

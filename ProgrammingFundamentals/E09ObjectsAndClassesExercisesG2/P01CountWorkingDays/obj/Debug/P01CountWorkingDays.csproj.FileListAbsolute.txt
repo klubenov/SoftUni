@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P01CountWorkingDays\bin\Debug\P01CountWorkingDays.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P01CountWorkingDays\bin\Debug\P01CountWorkingDays.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P01CountWorkingDays\bin\Debug\P01CountWorkingDays.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P01CountWorkingDays\obj\Debug\P01CountWorkingDays.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P01CountWorkingDays\obj\Debug\P01CountWorkingDays.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P01CountWorkingDays\obj\Debug\P01CountWorkingDays.pdb

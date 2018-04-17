@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P01HelloName!\bin\Debug\P01HelloName!.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P01HelloName!\bin\Debug\P01HelloName!.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P01HelloName!\bin\Debug\P01HelloName!.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P01HelloName!\obj\Debug\P01HelloName!.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P01HelloName!\obj\Debug\P01HelloName!.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P01HelloName!\obj\Debug\P01HelloName!.pdb

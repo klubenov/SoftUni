@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P4MaxSequenceOfEqualElements\bin\Debug\P4MaxSequenceOfEqualElements.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P4MaxSequenceOfEqualElements\bin\Debug\P4MaxSequenceOfEqualElements.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P4MaxSequenceOfEqualElements\bin\Debug\P4MaxSequenceOfEqualElements.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P4MaxSequenceOfEqualElements\obj\Debug\P4MaxSequenceOfEqualElements.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P4MaxSequenceOfEqualElements\obj\Debug\P4MaxSequenceOfEqualElements.pdb

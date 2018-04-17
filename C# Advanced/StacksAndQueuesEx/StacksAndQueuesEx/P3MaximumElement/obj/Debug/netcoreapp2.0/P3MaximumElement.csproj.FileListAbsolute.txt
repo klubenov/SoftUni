@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\bin\Debug\netcoreapp2.0\P3MaximumElement.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\bin\Debug\netcoreapp2.0\P3MaximumElement.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\bin\Debug\netcoreapp2.0\P3MaximumElement.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\bin\Debug\netcoreapp2.0\P3MaximumElement.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\bin\Debug\netcoreapp2.0\P3MaximumElement.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\obj\Debug\netcoreapp2.0\P3MaximumElement.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\obj\Debug\netcoreapp2.0\P3MaximumElement.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\obj\Debug\netcoreapp2.0\P3MaximumElement.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\obj\Debug\netcoreapp2.0\P3MaximumElement.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\obj\Debug\netcoreapp2.0\P3MaximumElement.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P3MaximumElement\obj\Debug\netcoreapp2.0\P3MaximumElement.pdb

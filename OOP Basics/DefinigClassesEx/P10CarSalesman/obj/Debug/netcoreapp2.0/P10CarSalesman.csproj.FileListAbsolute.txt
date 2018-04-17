@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\bin\Debug\netcoreapp2.0\P10CarSalesman.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\bin\Debug\netcoreapp2.0\P10CarSalesman.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\bin\Debug\netcoreapp2.0\P10CarSalesman.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\bin\Debug\netcoreapp2.0\P10CarSalesman.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\bin\Debug\netcoreapp2.0\P10CarSalesman.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\obj\Debug\netcoreapp2.0\P10CarSalesman.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\obj\Debug\netcoreapp2.0\P10CarSalesman.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\obj\Debug\netcoreapp2.0\P10CarSalesman.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\obj\Debug\netcoreapp2.0\P10CarSalesman.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\obj\Debug\netcoreapp2.0\P10CarSalesman.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P10CarSalesman\obj\Debug\netcoreapp2.0\P10CarSalesman.pdb

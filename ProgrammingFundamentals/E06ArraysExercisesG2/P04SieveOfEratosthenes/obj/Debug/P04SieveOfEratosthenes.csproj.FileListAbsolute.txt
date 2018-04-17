@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P04SieveOfEratosthenes\bin\Debug\P04SieveOfEratosthenes.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P04SieveOfEratosthenes\bin\Debug\P04SieveOfEratosthenes.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P04SieveOfEratosthenes\bin\Debug\P04SieveOfEratosthenes.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P04SieveOfEratosthenes\obj\Debug\P04SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P04SieveOfEratosthenes\obj\Debug\P04SieveOfEratosthenes.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P04SieveOfEratosthenes\obj\Debug\P04SieveOfEratosthenes.pdb

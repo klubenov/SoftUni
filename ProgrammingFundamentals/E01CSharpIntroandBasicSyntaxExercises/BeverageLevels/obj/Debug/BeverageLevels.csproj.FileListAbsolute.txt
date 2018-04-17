@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\BeverageLevels\bin\Debug\BeverageLevels.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\BeverageLevels\bin\Debug\BeverageLevels.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\BeverageLevels\bin\Debug\BeverageLevels.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\BeverageLevels\obj\Debug\BeverageLevels.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\BeverageLevels\obj\Debug\BeverageLevels.pdb

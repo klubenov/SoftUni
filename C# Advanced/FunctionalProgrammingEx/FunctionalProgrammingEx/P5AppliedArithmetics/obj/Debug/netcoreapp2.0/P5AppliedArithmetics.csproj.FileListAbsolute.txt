@@ -1,0 +1,10 @@
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\bin\Debug\netcoreapp2.0\P5AppliedArithmetics.deps.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\bin\Debug\netcoreapp2.0\P5AppliedArithmetics.runtimeconfig.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\bin\Debug\netcoreapp2.0\P5AppliedArithmetics.runtimeconfig.dev.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\bin\Debug\netcoreapp2.0\P5AppliedArithmetics.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\bin\Debug\netcoreapp2.0\P5AppliedArithmetics.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\obj\Debug\netcoreapp2.0\P5AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\obj\Debug\netcoreapp2.0\P5AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\obj\Debug\netcoreapp2.0\P5AppliedArithmetics.AssemblyInfo.cs
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\obj\Debug\netcoreapp2.0\P5AppliedArithmetics.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P5AppliedArithmetics\obj\Debug\netcoreapp2.0\P5AppliedArithmetics.pdb

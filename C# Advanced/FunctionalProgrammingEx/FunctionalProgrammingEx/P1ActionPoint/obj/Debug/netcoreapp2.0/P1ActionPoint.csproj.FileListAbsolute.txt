@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\bin\Debug\netcoreapp2.0\P1ActionPoint.deps.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\bin\Debug\netcoreapp2.0\P1ActionPoint.runtimeconfig.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\bin\Debug\netcoreapp2.0\P1ActionPoint.runtimeconfig.dev.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\bin\Debug\netcoreapp2.0\P1ActionPoint.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\bin\Debug\netcoreapp2.0\P1ActionPoint.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\obj\Debug\netcoreapp2.0\P1ActionPoint.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\obj\Debug\netcoreapp2.0\P1ActionPoint.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\obj\Debug\netcoreapp2.0\P1ActionPoint.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\obj\Debug\netcoreapp2.0\P1ActionPoint.AssemblyInfo.cs
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\obj\Debug\netcoreapp2.0\P1ActionPoint.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P1ActionPoint\obj\Debug\netcoreapp2.0\P1ActionPoint.pdb

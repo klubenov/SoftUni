@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P06IntervalOfNumbers\bin\Debug\P06IntervalOfNumbers.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P06IntervalOfNumbers\bin\Debug\P06IntervalOfNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P06IntervalOfNumbers\bin\Debug\P06IntervalOfNumbers.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P06IntervalOfNumbers\obj\Debug\P06IntervalOfNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P06IntervalOfNumbers\obj\Debug\P06IntervalOfNumbers.pdb

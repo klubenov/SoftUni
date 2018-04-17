@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P05CompareCharArrays\bin\Debug\P05CompareCharArrays.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P05CompareCharArrays\bin\Debug\P05CompareCharArrays.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P05CompareCharArrays\bin\Debug\P05CompareCharArrays.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P05CompareCharArrays\obj\Debug\P05CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P05CompareCharArrays\obj\Debug\P05CompareCharArrays.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P05CompareCharArrays\obj\Debug\P05CompareCharArrays.pdb

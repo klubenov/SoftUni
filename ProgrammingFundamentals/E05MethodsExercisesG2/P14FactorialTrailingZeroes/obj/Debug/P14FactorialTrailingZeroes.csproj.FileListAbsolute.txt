@@ -1,0 +1,5 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P14FactorialTrailingZeroes\bin\Debug\P14FactorialTrailingZeroes.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P14FactorialTrailingZeroes\bin\Debug\P14FactorialTrailingZeroes.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P14FactorialTrailingZeroes\bin\Debug\P14FactorialTrailingZeroes.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P14FactorialTrailingZeroes\obj\Debug\P14FactorialTrailingZeroes.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P14FactorialTrailingZeroes\obj\Debug\P14FactorialTrailingZeroes.pdb

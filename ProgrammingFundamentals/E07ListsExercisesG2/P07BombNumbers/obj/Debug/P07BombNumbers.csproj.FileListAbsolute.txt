@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P07BombNumbers\bin\Debug\P07BombNumbers.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P07BombNumbers\bin\Debug\P07BombNumbers.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P07BombNumbers\bin\Debug\P07BombNumbers.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P07BombNumbers\obj\Debug\P07BombNumbers.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P07BombNumbers\obj\Debug\P07BombNumbers.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P07BombNumbers\obj\Debug\P07BombNumbers.pdb

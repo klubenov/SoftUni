@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\bin\Debug\netcoreapp2.0\P4Telephony.deps.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\bin\Debug\netcoreapp2.0\P4Telephony.runtimeconfig.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\bin\Debug\netcoreapp2.0\P4Telephony.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\bin\Debug\netcoreapp2.0\P4Telephony.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\bin\Debug\netcoreapp2.0\P4Telephony.pdb
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\obj\Debug\netcoreapp2.0\P4Telephony.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\obj\Debug\netcoreapp2.0\P4Telephony.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\obj\Debug\netcoreapp2.0\P4Telephony.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\obj\Debug\netcoreapp2.0\P4Telephony.AssemblyInfo.cs
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\obj\Debug\netcoreapp2.0\P4Telephony.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P4Telephony\obj\Debug\netcoreapp2.0\P4Telephony.pdb

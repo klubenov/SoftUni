@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P12TestNumbers\bin\Debug\P12TestNumbers.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P12TestNumbers\bin\Debug\P12TestNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P12TestNumbers\bin\Debug\P12TestNumbers.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P12TestNumbers\obj\Debug\P12TestNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P12TestNumbers\obj\Debug\P12TestNumbers.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P12TestNumbers\obj\Debug\P12TestNumbers.csprojResolveAssemblyReference.cache

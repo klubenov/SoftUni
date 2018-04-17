@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P01MaxSequenceOfEqualElements\bin\Debug\P01MaxSequenceOfEqualElements.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P01MaxSequenceOfEqualElements\bin\Debug\P01MaxSequenceOfEqualElements.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P01MaxSequenceOfEqualElements\bin\Debug\P01MaxSequenceOfEqualElements.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P01MaxSequenceOfEqualElements\obj\Debug\P01MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P01MaxSequenceOfEqualElements\obj\Debug\P01MaxSequenceOfEqualElements.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E07ListsExercisesG2\P01MaxSequenceOfEqualElements\obj\Debug\P01MaxSequenceOfEqualElements.pdb

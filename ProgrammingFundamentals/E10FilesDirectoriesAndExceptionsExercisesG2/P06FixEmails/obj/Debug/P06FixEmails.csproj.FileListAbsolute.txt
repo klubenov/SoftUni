@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P06FixEmails\bin\Debug\P06FixEmails.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P06FixEmails\bin\Debug\P06FixEmails.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P06FixEmails\bin\Debug\P06FixEmails.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P06FixEmails\obj\Debug\P06FixEmails.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E10FilesDirectoriesAndExceptionsExercisesG2\P06FixEmails\obj\Debug\P06FixEmails.pdb

@@ -1,0 +1,10 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\bin\Debug\netcoreapp2.0\P8RecursiveFibonacci.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\bin\Debug\netcoreapp2.0\P8RecursiveFibonacci.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\bin\Debug\netcoreapp2.0\P8RecursiveFibonacci.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\bin\Debug\netcoreapp2.0\P8RecursiveFibonacci.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\bin\Debug\netcoreapp2.0\P8RecursiveFibonacci.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\obj\Debug\netcoreapp2.0\P8RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\obj\Debug\netcoreapp2.0\P8RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\obj\Debug\netcoreapp2.0\P8RecursiveFibonacci.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\obj\Debug\netcoreapp2.0\P8RecursiveFibonacci.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P8RecursiveFibonacci\obj\Debug\netcoreapp2.0\P8RecursiveFibonacci.pdb

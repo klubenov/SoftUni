@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P03IntersectionOfCircles\bin\Debug\P03IntersectionOfCircles.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P03IntersectionOfCircles\bin\Debug\P03IntersectionOfCircles.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P03IntersectionOfCircles\bin\Debug\P03IntersectionOfCircles.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P03IntersectionOfCircles\obj\Debug\P03IntersectionOfCircles.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P03IntersectionOfCircles\obj\Debug\P03IntersectionOfCircles.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P03IntersectionOfCircles\obj\Debug\P03IntersectionOfCircles.pdb

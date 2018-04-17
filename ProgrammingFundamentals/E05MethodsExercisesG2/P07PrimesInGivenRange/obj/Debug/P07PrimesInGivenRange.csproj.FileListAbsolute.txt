@@ -1,0 +1,5 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P07PrimesInGivenRange\bin\Debug\P07PrimesInGivenRange.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P07PrimesInGivenRange\bin\Debug\P07PrimesInGivenRange.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P07PrimesInGivenRange\bin\Debug\P07PrimesInGivenRange.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P07PrimesInGivenRange\obj\Debug\P07PrimesInGivenRange.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P07PrimesInGivenRange\obj\Debug\P07PrimesInGivenRange.pdb

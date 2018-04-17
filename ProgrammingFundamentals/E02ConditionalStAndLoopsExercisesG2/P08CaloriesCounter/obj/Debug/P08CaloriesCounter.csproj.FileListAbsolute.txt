@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P08CaloriesCounter\bin\Debug\P08CaloriesCounter.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P08CaloriesCounter\bin\Debug\P08CaloriesCounter.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P08CaloriesCounter\bin\Debug\P08CaloriesCounter.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P08CaloriesCounter\obj\Debug\P08CaloriesCounter.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P08CaloriesCounter\obj\Debug\P08CaloriesCounter.pdb

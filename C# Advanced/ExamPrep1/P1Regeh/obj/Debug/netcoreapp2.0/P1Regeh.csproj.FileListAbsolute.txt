@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\bin\Debug\netcoreapp2.0\P1Regeh.deps.json
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\bin\Debug\netcoreapp2.0\P1Regeh.runtimeconfig.json
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\bin\Debug\netcoreapp2.0\P1Regeh.runtimeconfig.dev.json
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\bin\Debug\netcoreapp2.0\P1Regeh.dll
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\bin\Debug\netcoreapp2.0\P1Regeh.pdb
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\obj\Debug\netcoreapp2.0\P1Regeh.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\obj\Debug\netcoreapp2.0\P1Regeh.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\obj\Debug\netcoreapp2.0\P1Regeh.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\obj\Debug\netcoreapp2.0\P1Regeh.AssemblyInfo.cs
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\obj\Debug\netcoreapp2.0\P1Regeh.dll
+C:\Projects\C# Advanced\ExamPrep1\P1Regeh\obj\Debug\netcoreapp2.0\P1Regeh.pdb

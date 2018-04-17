@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\bin\Debug\netcoreapp2.0\P9Crossfire.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\bin\Debug\netcoreapp2.0\P9Crossfire.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\bin\Debug\netcoreapp2.0\P9Crossfire.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\bin\Debug\netcoreapp2.0\P9Crossfire.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\bin\Debug\netcoreapp2.0\P9Crossfire.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\obj\Debug\netcoreapp2.0\P9Crossfire.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\obj\Debug\netcoreapp2.0\P9Crossfire.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\obj\Debug\netcoreapp2.0\P9Crossfire.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\obj\Debug\netcoreapp2.0\P9Crossfire.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\obj\Debug\netcoreapp2.0\P9Crossfire.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P9Crossfire\obj\Debug\netcoreapp2.0\P9Crossfire.pdb

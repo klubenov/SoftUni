@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\bin\Debug\netcoreapp2.0\P3NumbersWars.deps.json
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\bin\Debug\netcoreapp2.0\P3NumbersWars.runtimeconfig.json
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\bin\Debug\netcoreapp2.0\P3NumbersWars.runtimeconfig.dev.json
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\bin\Debug\netcoreapp2.0\P3NumbersWars.dll
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\bin\Debug\netcoreapp2.0\P3NumbersWars.pdb
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\obj\Debug\netcoreapp2.0\P3NumbersWars.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\obj\Debug\netcoreapp2.0\P3NumbersWars.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\obj\Debug\netcoreapp2.0\P3NumbersWars.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\obj\Debug\netcoreapp2.0\P3NumbersWars.AssemblyInfo.cs
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\obj\Debug\netcoreapp2.0\P3NumbersWars.dll
+C:\Projects\C# Advanced\ExamPrep1\P3NumbersWars\obj\Debug\netcoreapp2.0\P3NumbersWars.pdb

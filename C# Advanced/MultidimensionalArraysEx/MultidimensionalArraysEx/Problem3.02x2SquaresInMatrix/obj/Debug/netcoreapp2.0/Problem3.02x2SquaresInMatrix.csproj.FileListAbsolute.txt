@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\bin\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\bin\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\bin\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\bin\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\bin\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\obj\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\obj\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\obj\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\obj\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\obj\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\Problem3.02x2SquaresInMatrix\obj\Debug\netcoreapp2.0\Problem3.02x2SquaresInMatrix.pdb

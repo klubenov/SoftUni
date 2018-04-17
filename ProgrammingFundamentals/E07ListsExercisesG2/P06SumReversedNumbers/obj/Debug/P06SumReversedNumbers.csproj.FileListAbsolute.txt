@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P06SumReversedNumbers\bin\Debug\P06SumReversedNumbers.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P06SumReversedNumbers\bin\Debug\P06SumReversedNumbers.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P06SumReversedNumbers\bin\Debug\P06SumReversedNumbers.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P06SumReversedNumbers\obj\Debug\P06SumReversedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P06SumReversedNumbers\obj\Debug\P06SumReversedNumbers.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P06SumReversedNumbers\obj\Debug\P06SumReversedNumbers.pdb

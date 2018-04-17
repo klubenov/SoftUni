@@ -1,0 +1,11 @@
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Projects\OOP Advanced\ReflectionEx\ReflectionEx\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

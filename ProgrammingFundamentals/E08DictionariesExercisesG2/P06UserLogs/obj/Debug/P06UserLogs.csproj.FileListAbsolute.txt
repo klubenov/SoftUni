@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P06UserLogs\bin\Debug\P06UserLogs.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P06UserLogs\bin\Debug\P06UserLogs.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P06UserLogs\bin\Debug\P06UserLogs.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P06UserLogs\obj\Debug\P06UserLogs.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P06UserLogs\obj\Debug\P06UserLogs.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P06UserLogs\obj\Debug\P06UserLogs.csprojResolveAssemblyReference.cache

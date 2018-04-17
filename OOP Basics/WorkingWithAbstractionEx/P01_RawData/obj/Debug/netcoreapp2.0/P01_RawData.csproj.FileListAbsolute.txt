@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+C:\Projects\OOP Basics\WorkingWithAbstractionEx\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

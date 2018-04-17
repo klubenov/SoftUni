@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P05WordsInPlural\obj\Debug\P05WordsInPlural.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P05WordsInPlural\bin\Debug\P05WordsInPlural.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P05WordsInPlural\bin\Debug\P05WordsInPlural.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P05WordsInPlural\bin\Debug\P05WordsInPlural.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P05WordsInPlural\obj\Debug\P05WordsInPlural.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P05WordsInPlural\obj\Debug\P05WordsInPlural.pdb

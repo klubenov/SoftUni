@@ -1,0 +1,5 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P09IndexOfLetters\bin\Debug\P09IndexOfLetters.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P09IndexOfLetters\bin\Debug\P09IndexOfLetters.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P09IndexOfLetters\bin\Debug\P09IndexOfLetters.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P09IndexOfLetters\obj\Debug\P09IndexOfLetters.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P09IndexOfLetters\obj\Debug\P09IndexOfLetters.pdb

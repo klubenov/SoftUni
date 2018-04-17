@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P04NumbersInReversedOrder\bin\Debug\P04NumbersInReversedOrder.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P04NumbersInReversedOrder\bin\Debug\P04NumbersInReversedOrder.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P04NumbersInReversedOrder\bin\Debug\P04NumbersInReversedOrder.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P04NumbersInReversedOrder\obj\Debug\P04NumbersInReversedOrder.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E05MethodsExercisesG2\P04NumbersInReversedOrder\obj\Debug\P04NumbersInReversedOrder.pdb

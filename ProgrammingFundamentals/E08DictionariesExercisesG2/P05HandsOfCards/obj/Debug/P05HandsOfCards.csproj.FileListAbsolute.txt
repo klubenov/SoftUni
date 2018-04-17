@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P05HandsOfCards\bin\Debug\P05HandsOfCards.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P05HandsOfCards\bin\Debug\P05HandsOfCards.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P05HandsOfCards\bin\Debug\P05HandsOfCards.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P05HandsOfCards\obj\Debug\P05HandsOfCards.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P05HandsOfCards\obj\Debug\P05HandsOfCards.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P05HandsOfCards\obj\Debug\P05HandsOfCards.pdb

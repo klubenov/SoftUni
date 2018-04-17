@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.deps.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.pdb
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P1DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\P1DefineAnInterfaceIPerson.pdb

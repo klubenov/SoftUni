@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P01Phonebook\bin\Debug\P01Phonebook.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P01Phonebook\bin\Debug\P01Phonebook.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P01Phonebook\bin\Debug\P01Phonebook.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P01Phonebook\obj\Debug\P01Phonebook.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P01Phonebook\obj\Debug\P01Phonebook.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E08DictionariesExercisesG2\P01Phonebook\obj\Debug\P01Phonebook.pdb

@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P5CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\P5CalculateSequenceWithQueue.pdb

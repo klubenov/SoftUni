@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\bin\Debug\netcoreapp2.0\P7BalancedParentheses.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\bin\Debug\netcoreapp2.0\P7BalancedParentheses.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\bin\Debug\netcoreapp2.0\P7BalancedParentheses.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\bin\Debug\netcoreapp2.0\P7BalancedParentheses.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\bin\Debug\netcoreapp2.0\P7BalancedParentheses.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\obj\Debug\netcoreapp2.0\P7BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\obj\Debug\netcoreapp2.0\P7BalancedParentheses.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\obj\Debug\netcoreapp2.0\P7BalancedParentheses.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\obj\Debug\netcoreapp2.0\P7BalancedParentheses.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\obj\Debug\netcoreapp2.0\P7BalancedParentheses.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P7BalancedParentheses\obj\Debug\netcoreapp2.0\P7BalancedParentheses.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P04AverageGrades\bin\Debug\P04AverageGrades.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P04AverageGrades\bin\Debug\P04AverageGrades.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P04AverageGrades\bin\Debug\P04AverageGrades.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P04AverageGrades\obj\Debug\P04AverageGrades.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P04AverageGrades\obj\Debug\P04AverageGrades.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P04AverageGrades\obj\Debug\P04AverageGrades.pdb

@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P02ChooseADrink20\bin\Debug\P02ChooseADrink20.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P02ChooseADrink20\bin\Debug\P02ChooseADrink20.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P02ChooseADrink20\bin\Debug\P02ChooseADrink20.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P02ChooseADrink20\obj\Debug\P02ChooseADrink20.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P02ChooseADrink20\obj\Debug\P02ChooseADrink20.pdb

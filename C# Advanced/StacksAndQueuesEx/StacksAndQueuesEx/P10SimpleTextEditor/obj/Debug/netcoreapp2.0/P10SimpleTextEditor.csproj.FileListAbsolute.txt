@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\bin\Debug\netcoreapp2.0\P10SimpleTextEditor.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\bin\Debug\netcoreapp2.0\P10SimpleTextEditor.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\bin\Debug\netcoreapp2.0\P10SimpleTextEditor.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\bin\Debug\netcoreapp2.0\P10SimpleTextEditor.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\bin\Debug\netcoreapp2.0\P10SimpleTextEditor.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\obj\Debug\netcoreapp2.0\P10SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\obj\Debug\netcoreapp2.0\P10SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\obj\Debug\netcoreapp2.0\P10SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\obj\Debug\netcoreapp2.0\P10SimpleTextEditor.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\obj\Debug\netcoreapp2.0\P10SimpleTextEditor.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P10SimpleTextEditor\obj\Debug\netcoreapp2.0\P10SimpleTextEditor.pdb

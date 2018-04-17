@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\bin\Debug\netcoreapp2.0\P6TargetPractice.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\bin\Debug\netcoreapp2.0\P6TargetPractice.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\bin\Debug\netcoreapp2.0\P6TargetPractice.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\bin\Debug\netcoreapp2.0\P6TargetPractice.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\bin\Debug\netcoreapp2.0\P6TargetPractice.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\obj\Debug\netcoreapp2.0\P6TargetPractice.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\obj\Debug\netcoreapp2.0\P6TargetPractice.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\obj\Debug\netcoreapp2.0\P6TargetPractice.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\obj\Debug\netcoreapp2.0\P6TargetPractice.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\obj\Debug\netcoreapp2.0\P6TargetPractice.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P6TargetPractice\obj\Debug\netcoreapp2.0\P6TargetPractice.pdb

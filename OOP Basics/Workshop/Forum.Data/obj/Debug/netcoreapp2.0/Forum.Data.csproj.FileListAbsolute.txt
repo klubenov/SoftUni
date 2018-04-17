@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\Workshop\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\Workshop\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\Workshop\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\Projects\OOP Basics\Workshop\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+C:\Projects\OOP Basics\Workshop\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Projects\OOP Basics\Workshop\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Projects\OOP Basics\Workshop\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Projects\OOP Basics\Workshop\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\Projects\OOP Basics\Workshop\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\Workshop\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Projects\OOP Basics\Workshop\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb

@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P12MasterNumbers\bin\Debug\P12MasterNumbers.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P12MasterNumbers\bin\Debug\P12MasterNumbers.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P12MasterNumbers\bin\Debug\P12MasterNumbers.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P12MasterNumbers\obj\Debug\P12MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P12MasterNumbers\obj\Debug\P12MasterNumbers.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P12MasterNumbers\obj\Debug\P12MasterNumbers.pdb

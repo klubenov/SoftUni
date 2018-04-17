@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\bin\Debug\netcoreapp2.0\P6TruckTour.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\bin\Debug\netcoreapp2.0\P6TruckTour.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\bin\Debug\netcoreapp2.0\P6TruckTour.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\bin\Debug\netcoreapp2.0\P6TruckTour.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\bin\Debug\netcoreapp2.0\P6TruckTour.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\obj\Debug\netcoreapp2.0\P6TruckTour.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\obj\Debug\netcoreapp2.0\P6TruckTour.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\obj\Debug\netcoreapp2.0\P6TruckTour.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\obj\Debug\netcoreapp2.0\P6TruckTour.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\obj\Debug\netcoreapp2.0\P6TruckTour.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P6TruckTour\obj\Debug\netcoreapp2.0\P6TruckTour.pdb

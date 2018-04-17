@@ -1,0 +1,5 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P10TriangleOfNumbers\bin\Debug\P10TriangleOfNumbers.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P10TriangleOfNumbers\bin\Debug\P10TriangleOfNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P10TriangleOfNumbers\bin\Debug\P10TriangleOfNumbers.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P10TriangleOfNumbers\obj\Debug\P10TriangleOfNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P10TriangleOfNumbers\obj\Debug\P10TriangleOfNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\bin\Debug\netcoreapp2.0\P2KnightsОfHonor.deps.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\bin\Debug\netcoreapp2.0\P2KnightsОfHonor.runtimeconfig.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\bin\Debug\netcoreapp2.0\P2KnightsОfHonor.runtimeconfig.dev.json
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\bin\Debug\netcoreapp2.0\P2KnightsОfHonor.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\bin\Debug\netcoreapp2.0\P2KnightsОfHonor.pdb
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\obj\Debug\netcoreapp2.0\P2KnightsОfHonor.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\obj\Debug\netcoreapp2.0\P2KnightsОfHonor.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\obj\Debug\netcoreapp2.0\P2KnightsОfHonor.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\obj\Debug\netcoreapp2.0\P2KnightsОfHonor.AssemblyInfo.cs
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\obj\Debug\netcoreapp2.0\P2KnightsОfHonor.dll
+C:\Projects\C# Advanced\FunctionalProgrammingEx\FunctionalProgrammingEx\P2KnightsОfHonor\obj\Debug\netcoreapp2.0\P2KnightsОfHonor.pdb

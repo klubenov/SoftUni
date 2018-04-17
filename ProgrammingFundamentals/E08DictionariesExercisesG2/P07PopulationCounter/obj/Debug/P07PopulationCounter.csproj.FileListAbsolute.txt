@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P07PopulationCounter\bin\Debug\P07PopulationCounter.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P07PopulationCounter\bin\Debug\P07PopulationCounter.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P07PopulationCounter\bin\Debug\P07PopulationCounter.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P07PopulationCounter\obj\Debug\P07PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P07PopulationCounter\obj\Debug\P07PopulationCounter.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E08DictionariesExercisesG2\P07PopulationCounter\obj\Debug\P07PopulationCounter.pdb

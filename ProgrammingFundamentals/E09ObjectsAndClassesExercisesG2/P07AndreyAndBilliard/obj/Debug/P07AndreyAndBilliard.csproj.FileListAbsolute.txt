@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P07AndreyAndBilliard\bin\Debug\P07AndreyAndBilliard.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P07AndreyAndBilliard\bin\Debug\P07AndreyAndBilliard.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P07AndreyAndBilliard\bin\Debug\P07AndreyAndBilliard.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P07AndreyAndBilliard\obj\Debug\P07AndreyAndBilliard.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P07AndreyAndBilliard\obj\Debug\P07AndreyAndBilliard.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P07AndreyAndBilliard\obj\Debug\P07AndreyAndBilliard.pdb

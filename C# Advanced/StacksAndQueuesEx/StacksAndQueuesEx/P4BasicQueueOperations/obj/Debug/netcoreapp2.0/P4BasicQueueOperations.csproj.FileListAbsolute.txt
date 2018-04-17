@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\bin\Debug\netcoreapp2.0\P4BasicQueueOperations.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\bin\Debug\netcoreapp2.0\P4BasicQueueOperations.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\bin\Debug\netcoreapp2.0\P4BasicQueueOperations.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\bin\Debug\netcoreapp2.0\P4BasicQueueOperations.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\bin\Debug\netcoreapp2.0\P4BasicQueueOperations.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\obj\Debug\netcoreapp2.0\P4BasicQueueOperations.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\obj\Debug\netcoreapp2.0\P4BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\obj\Debug\netcoreapp2.0\P4BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\obj\Debug\netcoreapp2.0\P4BasicQueueOperations.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\obj\Debug\netcoreapp2.0\P4BasicQueueOperations.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P4BasicQueueOperations\obj\Debug\netcoreapp2.0\P4BasicQueueOperations.pdb

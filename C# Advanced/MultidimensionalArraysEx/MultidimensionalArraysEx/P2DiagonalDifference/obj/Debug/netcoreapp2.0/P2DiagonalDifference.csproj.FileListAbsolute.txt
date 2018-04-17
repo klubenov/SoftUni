@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\bin\Debug\netcoreapp2.0\P2DiagonalDifference.deps.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\bin\Debug\netcoreapp2.0\P2DiagonalDifference.runtimeconfig.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\bin\Debug\netcoreapp2.0\P2DiagonalDifference.runtimeconfig.dev.json
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\bin\Debug\netcoreapp2.0\P2DiagonalDifference.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\bin\Debug\netcoreapp2.0\P2DiagonalDifference.pdb
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\obj\Debug\netcoreapp2.0\P2DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\obj\Debug\netcoreapp2.0\P2DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\obj\Debug\netcoreapp2.0\P2DiagonalDifference.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\obj\Debug\netcoreapp2.0\P2DiagonalDifference.AssemblyInfo.cs
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\obj\Debug\netcoreapp2.0\P2DiagonalDifference.dll
+C:\Projects\C# Advanced\MultidimensionalArraysEx\MultidimensionalArraysEx\P2DiagonalDifference\obj\Debug\netcoreapp2.0\P2DiagonalDifference.pdb

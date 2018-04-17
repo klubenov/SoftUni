@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P13GameOfNumbers\bin\Debug\P13GameOfNumbers.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P13GameOfNumbers\bin\Debug\P13GameOfNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P13GameOfNumbers\bin\Debug\P13GameOfNumbers.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P13GameOfNumbers\obj\Debug\P13GameOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P13GameOfNumbers\obj\Debug\P13GameOfNumbers.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P13GameOfNumbers\obj\Debug\P13GameOfNumbers.pdb

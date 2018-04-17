@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P02AdvertisementMessage\bin\Debug\P02AdvertisementMessage.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P02AdvertisementMessage\bin\Debug\P02AdvertisementMessage.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P02AdvertisementMessage\bin\Debug\P02AdvertisementMessage.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P02AdvertisementMessage\obj\Debug\P02AdvertisementMessage.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P02AdvertisementMessage\obj\Debug\P02AdvertisementMessage.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E09ObjectsAndClassesExercisesG2\P02AdvertisementMessage\obj\Debug\P02AdvertisementMessage.pdb

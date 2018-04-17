@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.deps.json
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.json
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.dev.json
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.dll
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.pdb
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfo.cs
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.dll
+C:\Projects\OOP Basics\ExamPrepGrandPrix\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.pdb

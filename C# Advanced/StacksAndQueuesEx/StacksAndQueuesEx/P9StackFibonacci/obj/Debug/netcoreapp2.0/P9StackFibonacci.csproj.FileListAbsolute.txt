@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\bin\Debug\netcoreapp2.0\P9StackFibonacci.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\bin\Debug\netcoreapp2.0\P9StackFibonacci.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\bin\Debug\netcoreapp2.0\P9StackFibonacci.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\bin\Debug\netcoreapp2.0\P9StackFibonacci.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\bin\Debug\netcoreapp2.0\P9StackFibonacci.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\obj\Debug\netcoreapp2.0\P9StackFibonacci.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\obj\Debug\netcoreapp2.0\P9StackFibonacci.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\obj\Debug\netcoreapp2.0\P9StackFibonacci.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\obj\Debug\netcoreapp2.0\P9StackFibonacci.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\obj\Debug\netcoreapp2.0\P9StackFibonacci.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P9StackFibonacci\obj\Debug\netcoreapp2.0\P9StackFibonacci.pdb

@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\bin\Debug\netcoreapp2.0\P5BorderControl.deps.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\bin\Debug\netcoreapp2.0\P5BorderControl.runtimeconfig.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\bin\Debug\netcoreapp2.0\P5BorderControl.runtimeconfig.dev.json
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\bin\Debug\netcoreapp2.0\P5BorderControl.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\bin\Debug\netcoreapp2.0\P5BorderControl.pdb
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\obj\Debug\netcoreapp2.0\P5BorderControl.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\obj\Debug\netcoreapp2.0\P5BorderControl.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\obj\Debug\netcoreapp2.0\P5BorderControl.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\obj\Debug\netcoreapp2.0\P5BorderControl.AssemblyInfo.cs
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\obj\Debug\netcoreapp2.0\P5BorderControl.dll
+C:\Projects\OOP Basics\InterfacesEx\InterfacesEx\P5BorderControl\obj\Debug\netcoreapp2.0\P5BorderControl.pdb

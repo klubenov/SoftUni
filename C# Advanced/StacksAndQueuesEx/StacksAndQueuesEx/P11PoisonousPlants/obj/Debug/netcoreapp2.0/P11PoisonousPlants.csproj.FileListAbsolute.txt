@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\bin\Debug\netcoreapp2.0\P11PoisonousPlants.deps.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\bin\Debug\netcoreapp2.0\P11PoisonousPlants.runtimeconfig.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\bin\Debug\netcoreapp2.0\P11PoisonousPlants.runtimeconfig.dev.json
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\bin\Debug\netcoreapp2.0\P11PoisonousPlants.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\bin\Debug\netcoreapp2.0\P11PoisonousPlants.pdb
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\obj\Debug\netcoreapp2.0\P11PoisonousPlants.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\obj\Debug\netcoreapp2.0\P11PoisonousPlants.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\obj\Debug\netcoreapp2.0\P11PoisonousPlants.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\obj\Debug\netcoreapp2.0\P11PoisonousPlants.AssemblyInfo.cs
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\obj\Debug\netcoreapp2.0\P11PoisonousPlants.dll
+C:\Projects\C# Advanced\StacksAndQueuesEx\StacksAndQueuesEx\P11PoisonousPlants\obj\Debug\netcoreapp2.0\P11PoisonousPlants.pdb

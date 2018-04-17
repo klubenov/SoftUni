@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P03FoldAndSum\bin\Debug\P03FoldAndSum.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P03FoldAndSum\bin\Debug\P03FoldAndSum.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P03FoldAndSum\bin\Debug\P03FoldAndSum.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P03FoldAndSum\obj\Debug\P03FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P03FoldAndSum\obj\Debug\P03FoldAndSum.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P03FoldAndSum\obj\Debug\P03FoldAndSum.pdb

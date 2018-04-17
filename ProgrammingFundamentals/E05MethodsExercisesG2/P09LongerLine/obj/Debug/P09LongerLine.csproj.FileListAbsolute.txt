@@ -1,0 +1,8 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P09LongerLine\bin\Debug\P09LongerLine.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P09LongerLine\bin\Debug\P09LongerLine.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P09LongerLine\bin\Debug\P09LongerLine.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P09LongerLine\bin\Debug\System.ValueTuple.dll
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P09LongerLine\bin\Debug\System.ValueTuple.xml
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P09LongerLine\obj\Debug\P09LongerLine.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P09LongerLine\obj\Debug\P09LongerLine.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E05MethodsExercisesG2\P09LongerLine\obj\Debug\P09LongerLine.pdb

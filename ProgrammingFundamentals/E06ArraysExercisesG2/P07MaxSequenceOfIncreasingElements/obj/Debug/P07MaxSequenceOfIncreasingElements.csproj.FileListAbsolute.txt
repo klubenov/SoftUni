@@ -1,0 +1,5 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P07MaxSequenceOfIncreasingElements\bin\Debug\P07MaxSequenceOfIncreasingElements.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P07MaxSequenceOfIncreasingElements\bin\Debug\P07MaxSequenceOfIncreasingElements.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P07MaxSequenceOfIncreasingElements\bin\Debug\P07MaxSequenceOfIncreasingElements.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P07MaxSequenceOfIncreasingElements\obj\Debug\P07MaxSequenceOfIncreasingElements.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E06ArraysExercisesG2\P07MaxSequenceOfIncreasingElements\obj\Debug\P07MaxSequenceOfIncreasingElements.pdb

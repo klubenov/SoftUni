@@ -1,0 +1,11 @@
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\bin\Debug\netcoreapp2.0\Logger.App.deps.json
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\bin\Debug\netcoreapp2.0\Logger.App.runtimeconfig.json
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\bin\Debug\netcoreapp2.0\Logger.App.runtimeconfig.dev.json
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\bin\Debug\netcoreapp2.0\Logger.App.dll
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\bin\Debug\netcoreapp2.0\Logger.App.pdb
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\obj\Debug\netcoreapp2.0\Logger.App.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\obj\Debug\netcoreapp2.0\Logger.App.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\obj\Debug\netcoreapp2.0\Logger.App.AssemblyInfoInputs.cache
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\obj\Debug\netcoreapp2.0\Logger.App.AssemblyInfo.cs
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\obj\Debug\netcoreapp2.0\Logger.App.dll
+C:\Projects\OOP Advanced\SOLIDEx\Logger\Logger.App\obj\Debug\netcoreapp2.0\Logger.App.pdb

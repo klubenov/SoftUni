@@ -1,0 +1,6 @@
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P04LongestIncreasingSubsequence\bin\Debug\P04LongestIncreasingSubsequence.exe.config
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P04LongestIncreasingSubsequence\bin\Debug\P04LongestIncreasingSubsequence.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P04LongestIncreasingSubsequence\bin\Debug\P04LongestIncreasingSubsequence.pdb
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P04LongestIncreasingSubsequence\obj\Debug\P04LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P04LongestIncreasingSubsequence\obj\Debug\P04LongestIncreasingSubsequence.exe
+C:\Users\PCMANIA\Documents\Visual Studio 2017\Projects\E07ListsExercisesG2\P04LongestIncreasingSubsequence\obj\Debug\P04LongestIncreasingSubsequence.pdb

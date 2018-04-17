@@ -1,0 +1,6 @@
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P03RestaurantDiscount\bin\Debug\P03RestaurantDiscount.exe.config
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P03RestaurantDiscount\bin\Debug\P03RestaurantDiscount.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P03RestaurantDiscount\bin\Debug\P03RestaurantDiscount.pdb
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P03RestaurantDiscount\obj\Debug\P03RestaurantDiscount.csprojResolveAssemblyReference.cache
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P03RestaurantDiscount\obj\Debug\P03RestaurantDiscount.exe
+c:\users\pcmania\documents\visual studio 2017\Projects\E02CShConditionalStAndLoopsExercisesG2\P03RestaurantDiscount\obj\Debug\P03RestaurantDiscount.pdb

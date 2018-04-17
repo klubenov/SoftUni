@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\bin\Debug\netcoreapp2.0\P8RawData.deps.json
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\bin\Debug\netcoreapp2.0\P8RawData.runtimeconfig.json
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\bin\Debug\netcoreapp2.0\P8RawData.runtimeconfig.dev.json
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\bin\Debug\netcoreapp2.0\P8RawData.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\bin\Debug\netcoreapp2.0\P8RawData.pdb
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\obj\Debug\netcoreapp2.0\P8RawData.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\obj\Debug\netcoreapp2.0\P8RawData.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\obj\Debug\netcoreapp2.0\P8RawData.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\obj\Debug\netcoreapp2.0\P8RawData.AssemblyInfo.cs
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\obj\Debug\netcoreapp2.0\P8RawData.dll
+C:\Projects\OOP Basics\DefinigClassesEx\P8RawData\obj\Debug\netcoreapp2.0\P8RawData.pdb

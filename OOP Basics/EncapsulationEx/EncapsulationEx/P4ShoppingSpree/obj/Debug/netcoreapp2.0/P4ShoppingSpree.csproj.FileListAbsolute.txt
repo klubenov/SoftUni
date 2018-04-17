@@ -1,0 +1,11 @@
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\bin\Debug\netcoreapp2.0\P4ShoppingSpree.deps.json
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\bin\Debug\netcoreapp2.0\P4ShoppingSpree.runtimeconfig.json
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\bin\Debug\netcoreapp2.0\P4ShoppingSpree.runtimeconfig.dev.json
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\bin\Debug\netcoreapp2.0\P4ShoppingSpree.dll
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\bin\Debug\netcoreapp2.0\P4ShoppingSpree.pdb
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\obj\Debug\netcoreapp2.0\P4ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\obj\Debug\netcoreapp2.0\P4ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\obj\Debug\netcoreapp2.0\P4ShoppingSpree.AssemblyInfoInputs.cache
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\obj\Debug\netcoreapp2.0\P4ShoppingSpree.AssemblyInfo.cs
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\obj\Debug\netcoreapp2.0\P4ShoppingSpree.dll
+C:\Projects\OOP Basics\EncapsulationEx\EncapsulationEx\P4ShoppingSpree\obj\Debug\netcoreapp2.0\P4ShoppingSpree.pdb
