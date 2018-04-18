@@ -1,0 +1,7 @@
+C:\Projects\OOP Advanced\ExamPrepMinedraft\Minedraft\bin\Debug\Minedraft.exe.config
+C:\Projects\OOP Advanced\ExamPrepMinedraft\Minedraft\bin\Debug\Minedraft.exe
+C:\Projects\OOP Advanced\ExamPrepMinedraft\Minedraft\bin\Debug\Minedraft.pdb
+C:\Projects\OOP Advanced\ExamPrepMinedraft\Minedraft\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+C:\Projects\OOP Advanced\ExamPrepMinedraft\Minedraft\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
+C:\Projects\OOP Advanced\ExamPrepMinedraft\Minedraft\obj\Debug\Minedraft.exe
+C:\Projects\OOP Advanced\ExamPrepMinedraft\Minedraft\obj\Debug\Minedraft.pdb

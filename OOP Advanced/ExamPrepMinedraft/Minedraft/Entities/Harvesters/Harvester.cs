@@ -1,7 +1,10 @@
-﻿public abstract class Harvester
+﻿using System;
+
+public abstract class Harvester : IHarvester
 {
-    private const int InitialDurability = 1000;
-    
+    private const int initialDurability = 1000;
+    public const double defaultDurabilityLoss = 100;
+
     private double oreOutput;
     private double energyRequirement;
 
@@ -10,7 +13,7 @@
         this.ID = id;
         this.OreOutput = oreOutput;
         this.EnergyRequirement = energyRequirement;
-        this.Durability = InitialDurability;
+        this.Durability = initialDurability;
     }
 
     public int ID { get; }
@@ -20,4 +23,18 @@
     public double EnergyRequirement { get; protected set; }
 
     public virtual double Durability { get; protected set; }
+
+    public void Broke()
+    {
+        this.Durability -= defaultDurabilityLoss;
+        if (this.Durability < 0)
+        {
+            throw new Exception();
+        }
+    }
+
+    public double Produce()
+    {
+        return this.OreOutput;
+    }
 }

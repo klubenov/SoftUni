@@ -6,9 +6,9 @@ public class Engine
 {
     private DraftManager manager;
 
-    public Engine()
+    public Engine(IProviderController providerController, IHarvesterController harvesterController)
     {
-        this.manager = new DraftManager();
+        this.manager = new DraftManager(providerController, harvesterController);
     }
 
     public void Run()
@@ -20,27 +20,27 @@ public class Engine
             var command = data[0];
             switch (command)
             {
-                case "RegisterHarvester":
-                    var args = new List<string>(data.Skip(1).ToList());
-                    manager.RegisterHarvester(args);
-                    break;
-                case "RegisterProvider":
-                    args = new List<string>(data.Skip(1).ToList());
-                    manager.RegisterProvider(args);
+                case "Register":
+                    if (data[1] == "Harvester")
+                    {
+                        Console.WriteLine(manager.RegisterHarvester(data.Skip(2).ToList()));
+                    }
+                    else if(data[1] == "Provider")
+                    {
+                        Console.WriteLine(manager.RegisterProvider(data.Skip(2).ToList()));
+                    }
                     break;
                 case "Day":
-                    manager.Day();
+                    Console.WriteLine(manager.Day());
                     break;
                 case "Mode":
-                    args = new List<string>(data.Skip(1).ToList());
-                    manager.Mode(args);
+                    Console.WriteLine(manager.Mode(data.Skip(1).ToList()));
                     break;
-                case "Check":
-                    args = new List<string>(data.Skip(1).ToList());
-                    //Console.WriteLine(manager.Check(args));
+                case "Inspect":
+                    Console.WriteLine(manager.Check(data.Skip(1).ToList()));
                     break;
-                default:
-                    manager.ShutDown();
+                case "Shutdown":
+                    Console.WriteLine(manager.ShutDown());
                     Environment.Exit(0);
                     break;
             }

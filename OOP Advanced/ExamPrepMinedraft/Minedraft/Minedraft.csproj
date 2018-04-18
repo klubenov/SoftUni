@@ -61,12 +61,17 @@
     <Compile Include="Attributes\RefreshEntitiesAttribute.cs" />
     <Compile Include="Constants\Constants.cs" />
     <Compile Include="Core\DraftManager.cs" />
+    <Compile Include="Core\EnergyRepository.cs" />
     <Compile Include="Core\Engine.cs" />
+    <Compile Include="Core\HarvesterController.cs" />
     <Compile Include="Entities\Harvesters\HammerHarvester.cs" />
     <Compile Include="Entities\Harvesters\Harvester.cs" />
     <Compile Include="Entities\Harvesters\InfinityHarvester.cs" />
     <Compile Include="Entities\Harvesters\SonicHarvester.cs" />
     <Compile Include="Entities\Harvesters\StandartHarvester.cs" />
+    <Compile Include="Entities\Providers\PressureProvider.cs" />
+    <Compile Include="Entities\Providers\SolarProvider.cs" />
+    <Compile Include="Entities\Providers\StandartProvider.cs" />
     <Compile Include="Interfaces\Core\ICommandInterpreter.cs" />
     <Compile Include="Interfaces\Core\IController.cs" />
     <Compile Include="Interfaces\Core\IHarvesterController.cs" />

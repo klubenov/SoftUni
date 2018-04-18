@@ -1,12 +1,11 @@
 ﻿public class SonicHarvester : Harvester
 {
-    private const int EnergyRequirementDivider = 2;
-    private const int DurabilityLoss = 300;
+    private const int energyRequirementDivider = 2;
+    private const int durabilityLoss = 300;
 
     public SonicHarvester(int id, double oreOutput, double energyRequirement) 
-        : base(id, oreOutput, energyRequirement)
+        : base(id, oreOutput, energyRequirement/energyRequirementDivider)
     {
-        this.EnergyRequirement /= EnergyRequirementDivider;
-        this.Durability -= DurabilityLoss;
+        base.Durability -= durabilityLoss;
     }
 }

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-public static class HarvesterFactory
+public class HarvesterFactory : IHarvesterFactory
 {
-    public static Harvester GenerateHarvester(IList<string> args)
+    public IHarvester GenerateHarvester(IList<string> args)
     {
         string type = args[0];
 
@@ -15,7 +15,7 @@ public static class HarvesterFactory
 
         Type clazz = Assembly.GetExecutingAssembly().GetTypes().FirstOrDefault(t => t.Name == type + "Harvester");
         var ctors = clazz.GetConstructors(BindingFlags.Public | BindingFlags.Instance);
-        Harvester harvester = (Harvester)ctors[0].Invoke(new object[] { id, oreOutput, energyReq });
+        IHarvester harvester = (IHarvester)ctors[0].Invoke(new object[] { id, oreOutput, energyReq });
         return harvester;
     }
 }

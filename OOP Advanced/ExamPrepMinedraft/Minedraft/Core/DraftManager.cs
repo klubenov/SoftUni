@@ -4,159 +4,73 @@ using System.Text;
 
 public class DraftManager
 {
-    private string mode;
-    private double totalStoredEnergy;
-    private double totalMinedOre;
-    private Dictionary<string, Harvester> harvestersById;
-    private Dictionary<string, IProvider> providersById;
 
-    public DraftManager()
+    private IHarvesterController harvesterController;
+    private IProviderController providerController;
+
+
+    public DraftManager(IProviderController providerController, IHarvesterController harvesterController)
     {
-        this.mode = "Full";
-        this.totalMinedOre = 0;
-        this.totalStoredEnergy = 0;
-        this.harvestersById = new Dictionary<string, Harvester>();
-        this.providersById = new Dictionary<string, IProvider>();
+        this.providerController = providerController;
+        this.harvesterController = harvesterController;
     }
 
     public string RegisterHarvester(List<string> arguments)
     {
-        var type = arguments[0];
-        var id = arguments[1];
-        var oreOutput = double.Parse(arguments[2]);
-        var energyRequirement = double.Parse(arguments[3]);
-        var sonicFactor = 0;
-        if (arguments.Count == 5)
-        {
-            sonicFactor = int.Parse(arguments[4]);
-        }
-
-        try
-        {
-            Harvester harvester = HarvesterFactory.GenerateHarvester(arguments);
-            this.harvestersById.Add(id, harvester);
-        }
-        catch (ArgumentException e)
-        {
-            return e.Message;
-        }
-
-        return $"Successfully registered {type} Harvester - {id}";
+        return this.harvesterController.Register(arguments);
     }
 
     public string RegisterProvider(List<string> arguments)
     {
-        var type = arguments[0];
-        var id = arguments[1];
-        var energyOutput = int.Parse(arguments[2]);
-
-        try
-        {
-            ProviderFactory fac = new ProviderFactory();
-            IProvider provider = fac.GenerateProvider(arguments);
-            this.providersById.Add(id, provider);
-        }
-        catch (ArgumentException e)
-        {
-            return e.Message;
-        }
-
-        return $"Successfully registered {type} Provider - {id}";
+        return this.providerController.Register(arguments);
     }
 
     public string Day()
     {
-        //calculate provided power for the day
-        double producedPower = 0;
-        foreach (var provider in this.providersById)
-        {
-            producedPower += provider.Value.EnergyOutput;
-        }
+        var productionStringBuilder = new StringBuilder();
 
-        //add to the total energy
-        this.totalStoredEnergy += producedPower;
+        productionStringBuilder.AppendLine(this.providerController.Produce())
+            .Append(this.harvesterController.Produce());
 
-        //calculate needed energy
-        double neededEnergy = 0;
-        foreach (var harvester in this.harvestersById)
-        {
-            if (this.mode == "Full")
-            {
-                neededEnergy += harvester.Value.EnergyRequirement;
-            }
-            else if (this.mode == "Half")
-            {
-                neededEnergy += harvester.Value.EnergyRequirement * 60 / 100;
-            }
-        }
-
-        //check if we can mine
-        double minedOres = 0;
-        if (this.totalStoredEnergy >= neededEnergy)
-        {
-            //mine
-            this.totalStoredEnergy -= neededEnergy;
-            foreach (var harvester in this.harvestersById)
-            {
-                minedOres += harvester.Value.OreOutput;
-            }
-        }
-
-        //take the mode in mind
-        if (this.mode == "Energy")
-        {
-            minedOres = 0;
-        }
-        else if (this.mode == "Half")
-        {
-            minedOres = minedOres * 50 / 100;
-        }
-
-        this.totalMinedOre += minedOres;
-
-        var sb = new StringBuilder();
-
-        sb.AppendLine($"A day has passed.");
-        sb.AppendLine($"Energy Provided: {producedPower}");
-        sb.Append($"Plumbus Ore Mined: {minedOres}");
-
-        return sb.ToString().Trim();
+        return productionStringBuilder.ToString();
     }
 
     public string Mode(List<string> arguments)
     {
-        var mode = arguments[0];
-        this.mode = mode;
-
-        return $"Successfully changed working mode to {mode} Mode";
+        return this.harvesterController.ChangeMode(arguments[0]);
     }
 
     public string Check(List<string> arguments)
     {
-        var id = arguments[0];
-        var sb = new StringBuilder();
-        if (this.providersById.ContainsKey(id))
+        var id = int.Parse(arguments[0]);
+
+        var providerControllerAsClass = providerController as ProviderController;
+        var harvesterControllerAsClass = harvesterController as HarvesterController;
+
+        foreach(var provider in providerControllerAsClass.Entities)
         {
-            sb.AppendLine(providersById[id].ToString());
+            if(provider.ID == id)
+            {
+                return string.Format(Constants.InspectSuccessful, provider.GetType().Name, provider.Durability);
+            }
         }
-        if (this.harvestersById.ContainsKey(id))
+        foreach(var harvester in harvesterControllerAsClass.Entities)
         {
-            sb.AppendLine(harvestersById[id].ToString());
-        }
-        if (string.IsNullOrWhiteSpace(sb.ToString()))
-        {
-            sb.AppendLine($"No element found with id - {id}");
+            if (harvester.ID == id)
+            {
+                return string.Format(Constants.InspectSuccessful, harvester.GetType().Name, harvester.Durability);
+            }
         }
 
-        return sb.ToString().Trim();
+        return string.Format(Constants.EntityNotFound, id);
     }
 
     public string ShutDown()
     {
         var sb = new StringBuilder();
         sb.AppendLine("System Shutdown");
-        sb.AppendLine($"Total Energy Stored: {this.totalStoredEnergy}");
-        sb.Append($"Total Mined Plumbus Ore: {this.totalMinedOre}");
+        sb.AppendLine($"Total Energy Stored: {this.providerController.TotalEnergyProduced}");
+        sb.Append($"Total Mined Plumbus Ore: {this.harvesterController.OreProduced}");
 
         return sb.ToString();
     }
