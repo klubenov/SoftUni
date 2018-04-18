@@ -79,6 +79,11 @@ public class HarvesterController : IHarvesterController
         OreProduced += oreProducedForTheDay;
         this.energyRepository.TakeEnergy(energyRequired);
 
+        foreach (var infinityHarvester in this.Entities.Where(h => h.GetType().Name=="InfinityHarvester"))
+        {
+            ((InfinityHarvester) infinityHarvester).SelfRepair();
+        }
+
         return string.Format(Constants.OreProducedToday, oreProducedForTheDay);
     }
 

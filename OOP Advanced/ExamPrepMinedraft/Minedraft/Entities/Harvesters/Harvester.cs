@@ -2,8 +2,8 @@
 
 public abstract class Harvester : IHarvester
 {
-    private const int initialDurability = 1000;
-    public const double defaultDurabilityLoss = 100;
+    protected const int initialDurability = 1000;
+    private const double defaultDurabilityLoss = 100;
 
     private double oreOutput;
     private double energyRequirement;

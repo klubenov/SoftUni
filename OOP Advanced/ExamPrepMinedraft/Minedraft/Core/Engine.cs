@@ -4,45 +4,27 @@ using System.Linq;
 
 public class Engine
 {
-    private DraftManager manager;
+    private ICommandInterpreter commandInterpreter;
+    private IWriter writer;
+    private IReader reader;
 
-    public Engine(IProviderController providerController, IHarvesterController harvesterController)
+    public Engine(ICommandInterpreter commandInterpreter, IWriter writer, IReader reader)
     {
-        this.manager = new DraftManager(providerController, harvesterController);
+        this.commandInterpreter = commandInterpreter;
+        this.writer = writer;
+        this.reader = reader;
     }
 
     public void Run()
     {
         while (true)
         {
-            var input = Console.ReadLine();
-            var data = input.Split().ToList();
-            var command = data[0];
-            switch (command)
+            var input = reader.ReadLine().Trim();
+            var data = input.Split(new char[]{' '}, StringSplitOptions.RemoveEmptyEntries).ToList();
+            writer.WriteLine(commandInterpreter.ProcessCommand(data));
+            if (input=="Shutdown")
             {
-                case "Register":
-                    if (data[1] == "Harvester")
-                    {
-                        Console.WriteLine(manager.RegisterHarvester(data.Skip(2).ToList()));
-                    }
-                    else if(data[1] == "Provider")
-                    {
-                        Console.WriteLine(manager.RegisterProvider(data.Skip(2).ToList()));
-                    }
-                    break;
-                case "Day":
-                    Console.WriteLine(manager.Day());
-                    break;
-                case "Mode":
-                    Console.WriteLine(manager.Mode(data.Skip(1).ToList()));
-                    break;
-                case "Inspect":
-                    Console.WriteLine(manager.Check(data.Skip(1).ToList()));
-                    break;
-                case "Shutdown":
-                    Console.WriteLine(manager.ShutDown());
-                    Environment.Exit(0);
-                    break;
+                Environment.Exit(0);
             }
         }
     }

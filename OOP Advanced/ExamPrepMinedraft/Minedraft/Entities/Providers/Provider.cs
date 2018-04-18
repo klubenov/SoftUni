@@ -3,7 +3,7 @@
 public abstract class Provider : IProvider
 {
     private const double initialDurability = 1000;
-    public const double defaultDurabilityLoss = 100;
+    private const double defaultDurabilityLoss = 100;
 
     protected Provider(int id, double energyOutput)
     {
