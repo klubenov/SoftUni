@@ -7,16 +7,21 @@ using System.Threading.Tasks;
 
 public class DayCommand : Command
 {
-    public DayCommand(ICommandInterpreter commandInterpreter, IList<string> arguments) : base(commandInterpreter, arguments)
+    private IProviderController providerController;
+    private IHarvesterController harvesterController;
+
+    public DayCommand(IProviderController providerController, IHarvesterController harvesterController, IList<string> arguments) : base(arguments)
     {
+        this.providerController = providerController;
+        this.harvesterController = harvesterController;
     }
 
     public override string Execute()
     {
         var productionStringBuilder = new StringBuilder();
 
-        productionStringBuilder.AppendLine(this.commandInterpreter.ProviderController.Produce())
-            .Append(this.commandInterpreter.HarvesterController.Produce());
+        productionStringBuilder.AppendLine(this.providerController.Produce())
+            .Append(this.harvesterController.Produce());
 
         return productionStringBuilder.ToString();
     }

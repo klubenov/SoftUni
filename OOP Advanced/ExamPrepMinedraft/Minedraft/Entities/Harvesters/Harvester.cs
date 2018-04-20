@@ -5,8 +5,7 @@ public abstract class Harvester : IHarvester
     protected const int initialDurability = 1000;
     private const double defaultDurabilityLoss = 100;
 
-    private double oreOutput;
-    private double energyRequirement;
+    private double durability;
 
     protected Harvester(int id, double oreOutput, double energyRequirement)
     {
@@ -22,15 +21,22 @@ public abstract class Harvester : IHarvester
 
     public double EnergyRequirement { get; protected set; }
 
-    public virtual double Durability { get; protected set; }
+    public virtual double Durability
+    {
+        get { return this.durability; }
+        protected set
+        {
+            if (value<0)
+            {
+                throw new ArgumentException();
+            }
+            this.durability = value;
+        }
+    }
 
     public void Broke()
     {
         this.Durability -= defaultDurabilityLoss;
-        if (this.Durability < 0)
-        {
-            throw new Exception();
-        }
     }
 
     public double Produce()

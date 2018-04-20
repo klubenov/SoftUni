@@ -13,15 +13,13 @@ public class InfinityHarvester : Harvester
 
     public override double Durability
     {
-        get => this.durability;
+        get
+        {
+            return this.durability;
+        }
         protected set
         {
-            this.durability = Math.Max(0, value);
+            this.durability = initialDurability;
         }
-    }
-
-    public void SelfRepair()
-    {
-        this.Durability = initialDurability;
     }
 }

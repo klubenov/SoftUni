@@ -51,7 +51,7 @@ public class HarvesterController : IHarvesterController
             {
                 harvester.Broke();
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 reminder.Add(harvester);
             }
@@ -78,11 +78,6 @@ public class HarvesterController : IHarvesterController
         oreProducedForTheDay = this.harvesters.Sum(h => h.Produce())*modeMultiplier;
         OreProduced += oreProducedForTheDay;
         this.energyRepository.TakeEnergy(energyRequired);
-
-        foreach (var infinityHarvester in this.Entities.Where(h => h.GetType().Name=="InfinityHarvester"))
-        {
-            ((InfinityHarvester) infinityHarvester).SelfRepair();
-        }
 
         return string.Format(Constants.OreProducedToday, oreProducedForTheDay);
     }

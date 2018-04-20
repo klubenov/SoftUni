@@ -7,12 +7,9 @@ using System.Threading.Tasks;
 
 public abstract class Command : ICommand
 {
-    protected ICommandInterpreter commandInterpreter;
-
-    protected Command(ICommandInterpreter commandInterpreter,IList<string> arguments)
+    protected Command(IList<string> arguments)
     {
         this.Arguments = arguments;
-        this.commandInterpreter = commandInterpreter;
     }
 
 
