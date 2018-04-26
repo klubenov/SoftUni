@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.deps.json
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.json
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.dev.json
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.dll
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.pdb
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfo.cs
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.dll
+C:\Projects\C# Advanced\Exam11.02.18\Exam\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.pdb

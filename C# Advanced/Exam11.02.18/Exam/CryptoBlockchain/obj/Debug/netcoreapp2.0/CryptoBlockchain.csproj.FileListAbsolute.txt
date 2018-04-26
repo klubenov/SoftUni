@@ -1,0 +1,11 @@
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.deps.json
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.runtimeconfig.json
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.runtimeconfig.dev.json
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.dll
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.pdb
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.csprojResolveAssemblyReference.cache
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.AssemblyInfo.cs
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.dll
+C:\Projects\C# Advanced\Exam11.02.18\Exam\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.pdb
