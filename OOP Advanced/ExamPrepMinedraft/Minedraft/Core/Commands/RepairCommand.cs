@@ -7,13 +7,18 @@ using System.Threading.Tasks;
 
 public class RepairCommand : Command
 {
-    public RepairCommand(ICommandInterpreter commandInterpreter, IList<string> arguments) : base(commandInterpreter, arguments)
+    private IProviderController providerController;
+
+    public RepairCommand(IProviderController providerController, IList<string> arguments) : base(arguments)
     {
+        this.providerController = providerController;
     }
 
     public override string Execute()
     {
-        return this.commandInterpreter.ProviderController.Repair(double.Parse(Arguments[0]));
+        return this.providerController.Repair(double.Parse(Arguments[0]));
     }
+
 }
+
 

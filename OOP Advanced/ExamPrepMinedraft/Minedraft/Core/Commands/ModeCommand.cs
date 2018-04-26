@@ -7,13 +7,17 @@ using System.Threading.Tasks;
 
 public class ModeCommand : Command
 {
-    public ModeCommand(ICommandInterpreter commandInterpreter,IList<string> arguments) : base(commandInterpreter,arguments)
+    private IHarvesterController harvesterController;
+
+    public ModeCommand(IHarvesterController harvesterController, IList<string> arguments) : base(arguments)
     {
+        this.harvesterController = harvesterController;
     }
 
     public override string Execute()
     {
-        return this.commandInterpreter.HarvesterController.ChangeMode(Arguments[0]);
+        return this.harvesterController.ChangeMode(Arguments[0]);
     }
 }
+
 

@@ -7,16 +7,21 @@ using System.Threading.Tasks;
 
 class InspectCommand : Command
 {
-    public InspectCommand(ICommandInterpreter commandInterpreter, IList<string> arguments) : base(commandInterpreter, arguments)
+    private IProviderController providerController;
+    private IHarvesterController harvesterController;
+
+    public InspectCommand(IProviderController providerController, IHarvesterController harvesterController, IList<string> arguments) : base(arguments)
     {
+        this.providerController = providerController;
+        this.harvesterController = harvesterController;
     }
 
     public override string Execute()
     {
         var id = int.Parse(Arguments[0]);
 
-        var providerControllerAsClass = this.commandInterpreter.ProviderController as ProviderController;
-        var harvesterControllerAsClass = this.commandInterpreter.HarvesterController as HarvesterController;
+        var providerControllerAsClass = this.providerController as ProviderController;
+        var harvesterControllerAsClass = this.harvesterController as HarvesterController;
 
         foreach (var provider in providerControllerAsClass.Entities)
         {

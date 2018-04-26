@@ -22,13 +22,32 @@ public class CommandInterpreter : ICommandInterpreter
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
         Type commandType = assembly.GetType(args[0] + "Command");
-        var commandConstructor = commandType.GetConstructors();
-        object[] ctorParameters = new object[] {this, args.Skip(1).ToList()};
-        var command = commandConstructor[0].Invoke(ctorParameters);
-        var commandExecuteMethod = commandType.GetMethod("Execute");
-        var result = commandExecuteMethod.Invoke(command,new object[]{});
+        var commandConstructor = commandType.GetConstructors().First();
 
-        return result.ToString();
+        ParameterInfo[] ctorParameters = commandConstructor.GetParameters();
+
+        object[] parameters = new object[ctorParameters.Length];
+
+        for (int i = 0; i < parameters.Length; i++)
+        {
+            Type parameterType = ctorParameters[i].ParameterType;
+
+            if (parameterType == typeof(IList<string>))
+            {
+                parameters[i] = args.Skip(1).ToList();
+            }
+            else
+            {
+                PropertyInfo paramInfo =
+                    this.GetType().GetProperties().FirstOrDefault(p => p.PropertyType == parameterType);
+                parameters[i] = paramInfo.GetValue(this);
+            }
+        }
+
+        var command = commandConstructor.Invoke(parameters);
+        var result = ((ICommand) command).Execute();
+
+        return result;
     }
 }
 

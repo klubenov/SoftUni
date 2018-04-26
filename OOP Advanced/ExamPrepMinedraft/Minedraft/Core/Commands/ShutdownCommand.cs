@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 public class ShutdownCommand : Command
 {
-    public ShutdownCommand(ICommandInterpreter commandInterpreter, IList<string> arguments) : base(commandInterpreter, arguments)
+    private IProviderController providerController;
+    private IHarvesterController harvesterController;
+
+    public ShutdownCommand(IProviderController providerController, IHarvesterController harvesterController, IList<string> arguments) : base(arguments)
     {
+        this.providerController = providerController;
+        this.harvesterController = harvesterController;
     }
 
     public override string Execute()
@@ -15,8 +20,8 @@ public class ShutdownCommand : Command
         var sb = new StringBuilder();
         sb.AppendLine("System Shutdown");
         sb.AppendLine(string.Format(Constants.TotalEnergyProduced,
-            this.commandInterpreter.ProviderController.TotalEnergyProduced));
-        sb.Append(string.Format(Constants.TotalOreProduced,this.commandInterpreter.HarvesterController.OreProduced));
+            this.providerController.TotalEnergyProduced));
+        sb.Append(string.Format(Constants.TotalOreProduced, this.harvesterController.OreProduced));
 
         return sb.ToString();
     }
