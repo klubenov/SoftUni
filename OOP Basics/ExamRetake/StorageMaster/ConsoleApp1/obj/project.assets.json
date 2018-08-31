@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pwnd0rum\\Desktop\\Exam\\StorageMaster\\ConsoleApp1\\StorageMaster.csproj",
+      "projectUniqueName": "C:\\Projects\\OOP Basics\\ExamRetake\\StorageMaster\\ConsoleApp1\\StorageMaster.csproj",
       "projectName": "StorageMaster",
-      "projectPath": "C:\\Users\\pwnd0rum\\Desktop\\Exam\\StorageMaster\\ConsoleApp1\\StorageMaster.csproj",
+      "projectPath": "C:\\Projects\\OOP Basics\\ExamRetake\\StorageMaster\\ConsoleApp1\\StorageMaster.csproj",
       "packagesPath": "C:\\Users\\pwnd0rum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pwnd0rum\\Desktop\\Exam\\StorageMaster\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Projects\\OOP Basics\\ExamRetake\\StorageMaster\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
