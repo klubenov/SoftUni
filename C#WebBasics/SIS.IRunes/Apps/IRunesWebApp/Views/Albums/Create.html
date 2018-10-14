@@ -1,0 +1,25 @@
+﻿<div class="row">
+    <div class="col-md-6 offset-3">
+        <div class="container-fluid">
+            <div class="heading-container text-center text-success">
+                <h1>Create Album</h1>
+            </div>
+            <div class="top-border-line primary-separator"></div>
+            <form method="post" action="/albums/create">
+                <div class="form-group">
+                    <label class="text-dark" for="name">Name</label>
+                    <input type="text" class="form-control" name="name" id="name" placeholder="Name..">
+                </div>
+                <div class="form-group">
+                    <label class="text-dark" for="cover">Cover</label>
+                    <input type="url" class="form-control" name="cover" id="cover" placeholder="Cover..">
+                </div>
+                <div class="top-border-line primary-separator"></div>
+                <div class="col-md-8 offset-2">
+                    <button style="text-align: left" type="submit" class="btn btn-success" >Login</button>
+                    <button style="display: inline; text-align: right" onclick="history.back() " type="button" class="btn btn-success">Back To All</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
