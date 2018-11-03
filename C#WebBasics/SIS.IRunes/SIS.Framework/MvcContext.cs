@@ -10,12 +10,18 @@
 
         public string AssemblyName { get; set; }
 
-        public string ControllersFolder { get; set; } = "Controllers";
+        public string ControllersFolder { get; set; }
 
-        public string ControllersSuffix { get; set; } = "Controller";
+        public string ControllersSuffix { get; set; }
 
-        public string ViewsFolder { get; set; } = "Views";
+        public string ViewsFolderName { get; set; }
 
-        public string ModelsFolder { get; set; } = "Models";
+        public string ModelsFolder { get; set; }
+
+        public string ResourcesFolderName { get; set; }
+
+        public string LayoutViewName { get; set; }
+
+        public string RootDirectoryRelativePath { get; set; }
     }
 }

@@ -1,0 +1,1 @@
+Only the Index and Login Get methods work, the other part of the adaptation of the IRunesApp to the framework is not implemented.

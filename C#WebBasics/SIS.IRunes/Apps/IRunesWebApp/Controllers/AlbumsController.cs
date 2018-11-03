@@ -36,7 +36,7 @@ namespace IRunesWebApp.Controllers
                 this.ViewBag["albumsList"] = "There are currently no albums.";
             }
 
-            return this.View();
+            return this.ViewMethod();
         }
 
         public IHttpResponse Create(IHttpRequest request)
@@ -46,7 +46,7 @@ namespace IRunesWebApp.Controllers
                 return new RedirectResult("/users/login");
             }
 
-            return this.View();
+            return this.ViewMethod();
         }
 
         public IHttpResponse PostCreate(IHttpRequest request)

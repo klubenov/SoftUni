@@ -1,0 +1,13 @@
+﻿<tr class="row">
+    <th class="col-md-1">@Model.OrderNumber</th>
+    <td class="col-md-5">@Model.TaskTitle</td>
+    <td class="col-md-1">@Model.TaskLevel</td>
+    <td class="col-md-2">@Model.Status</td>
+    <td class="col-md-2">
+        <div class="button-holder d-flex justify-content-between">
+            <form action="/reports/details" method="get">
+                <button class="btn bg-torshia text-white" type="submit" name="id" value="@Model.ReportId">Details</button>
+            </form>
+        </div>
+    </td>
+</tr>
