@@ -1,0 +1,16 @@
+body{
+    padding: 3em 6em;
+    background-color: rgb(238,238,238);
+}
+
+.gallery li {
+    display: inline-block;
+    border: 0.4rem solid black;
+    padding: 0.6em;
+    margin: 0.6em;
+    vertical-align: middle;
+}
+
+.gallery li img {
+    max-height: 25em;
+}

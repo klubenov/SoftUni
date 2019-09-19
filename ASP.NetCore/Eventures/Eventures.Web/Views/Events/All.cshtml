@@ -1,0 +1,80 @@
+﻿@model EventAllViewModel
+<h1 class="text-center">All Events</h1>
+
+<hr class="hr-2 bg-eventure" />
+<table class="table">
+    <thead class="">
+    <tr class="row ">
+        <th class="col-1 border-top-0">#</th>
+        <th class="col-2 border-top-0">Name</th>
+        <th class="col-2 border-top-0">Start</th>
+        <th class="col-2 border-top-0">End</th>
+        <th class="col-2 border-top-0">TicketsRemaining</th>
+        <th class="col-2 border-top-0">Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Events)
+    {
+        <tr class="row">
+            <th class="col-1 font-weight-normal">@item.Number</th>
+            <th class="col-2 font-weight-normal">@item.Name</th>
+            <th class="col-2 font-weight-normal">@item.Start.ToString("dd-MMM-yyyy HH:mm:ss")</th>
+            <th class="col-2 font-weight-normal">@item.End.ToString("dd-MMM-yyyy HH:mm:ss")</th>
+            <th class="col-2 font-weight-normal text-center">@item.TicketsRemaining</th>
+            <th class="col-3 font-weight-normal">
+                <form method="post" action="/Orders/Create">
+                    <div class="row">
+                        <input id="Tickets" name="TicketsCount" type="number" placeholder="Enter the desired amount..." max="@item.TicketsRemaining" min="1" />
+                        <button type="submit" class="btn btn-default bg-eventure">Order</button>
+                        <input name="EventName" type="hidden" value="@item.Name" />
+                        <input name="pageNumber" type="hidden" value="@Model.CurrentPage" />
+                    </div>
+                </form>
+            </th>
+        </tr>
+    }
+    </tbody>
+</table>
+<nav>
+    <ul class="pagination justify-content-center">
+        @if (Model.CurrentPage == 1)
+        {
+            <li class="page-item disabled">
+                <a class="page-link" href="#" tabindex="-1">Previous</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item">
+                <a class="page-link" href="/Events/All?currentPage=@(Model.CurrentPage-1)">Previous</a>
+            </li>
+        }
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            if (i == Model.CurrentPage)
+            {
+                <li class="page-item active">
+                    <a class="page-link" href="/Events/All?currentPage=@i">@i <span class="sr-only">(current)</span></a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item"><a class="page-link" href="/Events/All?currentPage=@i">@i</a></li>
+            }
+        }
+        @if (Model.CurrentPage == Model.TotalPages)
+        {
+            <li class="page-item disabled">
+                <a class="page-link" href="#" tabindex="-1">Next</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item">
+                <a class="page-link" href="/Events/All?currentPage=@(Model.CurrentPage+1)">Next</a>
+            </li>
+        }
+    </ul>
+</nav>
+<hr class="hr-2 bg-eventure" />

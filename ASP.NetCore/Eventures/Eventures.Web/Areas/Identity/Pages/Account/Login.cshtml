@@ -1,0 +1,68 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<div class="row">
+    <div class="offset-4 col-md-4">
+        <form method="post">
+            <h1 class="text-center">Login</h1>
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <hr class="hr-2 bg-eventure" />
+            <div class="form-group text-center">
+                <label class="font-weight-bold" asp-for="Input.Username"></label>
+                <input asp-for="Input.Username" class="form-control" placeholder="Username..."/>
+                <span asp-validation-for="Input.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group text-center">
+                <label class="font-weight-bold" asp-for="Input.Password"></label>
+                <input asp-for="Input.Password" class="form-control" placeholder="Password..."/>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <hr class="hr-2 bg-eventure" />
+            <div class="form-group">
+                <div class="checkbox text-center">
+                    <label asp-for="Input.RememberMe">
+                        <input asp-for="Input.RememberMe" />
+                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                    </label>
+                </div>
+            </div>
+            <hr class="hr-2 bg-eventure" />
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-default bg-eventure">Log in</button>
+            </div>
+            <div class="form-group">
+                <p class="text-center">
+                    <a asp-page="./ForgotPassword">Forgot your password?</a>
+                </p>
+                <p class="text-center">
+                    <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+                </p>
+            </div>
+        </form>
+        @if (Model.ExternalLogins.Any())
+        {
+            <hr class="hr-2 bg-eventure" />
+            <form asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                <div>
+                    <p>
+                        @foreach (var provider in Model.ExternalLogins)
+                        {
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-default bg-eventure" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                        </div>
+                        }
+                    </p>
+                </div>
+            </form>
+            <hr class="hr-2 bg-eventure"/>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
