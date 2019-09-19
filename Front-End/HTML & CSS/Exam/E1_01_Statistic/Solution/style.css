@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font: 18px/1.5 Ubuntu, sans-serif;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    display: block;
+    position: absolute;
+    left: 50%; top: 50%;
+    transform: translate(-50%, -60%);
+    z-index:0;
+}
+
+.container:before {
+    content: '';
+    display: block;
+    padding: 27.1%;
+}
+
+.statistics-list {
+    width: 100%;
+    height:50%;
+    position: absolute;
+    left: 50%; top: 50%;
+    transform: translate(-50%, -60%);
+    z-index:1;
+    display: flex;
+    justify-content: space-around;
+    background: rgba(10, 0, 87, 0.692);
+    align-items: center;
+}
+
+.statistics-list li {
+    color: white;
+    list-style: none outside;
+    text-align: center;
+}
+
+.statistics-list li i {
+    padding-bottom: 1rem;
+    font-size: 2em;
+    color: #EC8421;
+}
+
+.statistics-list li .number {
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.statistics-list li:nth-child(1) {
+    padding-left: 2rem;
+}
+
+.statistics-list li:last-child {
+    padding-right: 2rem;
+}
+

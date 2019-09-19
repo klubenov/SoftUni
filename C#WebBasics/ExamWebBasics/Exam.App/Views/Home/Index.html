@@ -1,0 +1,74 @@
+﻿<div style="display: @Model.NotLoggedIn">
+    <main class="mt-3">
+        <div class="jumbotron mt-3 bg-panda">
+            <h1 class="text-white">Welcome to PANDA Delivery Services.</h1>
+            <hr class="bg-white hr-2" />
+            <h3 class="text-white"><a href="/Users/Login">Login</a> if you have an account.</h3>
+            <h3 class="text-white"><a href="/Users/Register">Register</a> if you don't.</h3>
+        </div>
+    </main>
+</div>
+<div style="display: @Model.UserLoggedIn">
+    <main class="mt-3">
+        <h1 class="text-panda text-center">Hello, @Model.Username!</h1>
+        <hr class="bg-panda w-100 hr-2"/>
+        <div class="tasks-row row ">
+            <div class="task col-md-4 rounded py-3">
+                <h2 class="text-panda text-center my-3">Pending</h2>
+                <div class="border-panda">
+                    <div>
+                        @Model.Collection.PendingViewModels(@Item)
+                    </div>
+                </div>
+            </div>
+            <div class="task col-md-4 rounded py-3">
+                <h2 class="text-panda text-center my-3">Shipped</h2>
+                <div class="border-panda">
+                    <div>
+                        @Model.Collection.ShippedViewModels(@Item)
+                    </div>
+                </div>
+            </div>
+            <div class="task col-md-4 rounded py-3">
+                <h2 class="text-panda text-center my-3">Delivered</h2>
+                <div class="border-panda">
+                    <div>
+                        @Model.Collection.DeliveredViewModels(@Item)
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>
+<div style="display: @Model.AdminLoggedIn">
+    <main class="mt-3">
+        <h1 class="text-panda text-center">Hello, @Model.Username!</h1>
+        <hr class="bg-panda w-100 hr-2"/>
+        <div class="tasks-row row ">
+            <div class="task col-md-4 rounded py-3">
+                <h2 class="text-panda text-center my-3">Pending</h2>
+                <div class="border-panda">
+                    <div>
+                        @Model.Collection.PendingViewModels(@Item)
+                    </div>
+                </div>
+            </div>
+            <div class="task col-md-4 rounded py-3">
+                <h2 class="text-panda text-center my-3">Shipped</h2>
+                <div class="border-panda">
+                    <div>
+                        @Model.Collection.ShippedViewModels(@Item)
+                    </div>
+                </div>
+            </div>
+            <div class="task col-md-4 rounded py-3">
+                <h2 class="text-panda text-center my-3">Delivered</h2>
+                <div class="border-panda">
+                    <div>
+                        @Model.Collection.DeliveredViewModels(@Item)
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>
